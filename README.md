@@ -543,7 +543,7 @@ A clinical question ("What is hypertension?") answered with a synthesized respon
 ### SQL Demo — Hospital Operations in Action
 Operational questions ("How many patients are there?") routed through the SQL intent path, returning a grounded count directly from PostgreSQL — while correctly declining to answer a follow-up breakdown it doesn't have the data for, rather than guessing.
 
-![SQL Demo](screenshots/sql-demo.png)
+![SQL Demo](screenshots/sql_demo.png)
 
 ### Sidebar Navigation
 The full modular workspace: AI Assistant, Dashboard, Patients, Doctors, Appointments, Admissions, Laboratory, Billing, Analytics, and Settings.

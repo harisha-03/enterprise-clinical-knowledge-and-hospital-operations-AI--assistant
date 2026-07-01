@@ -540,8 +540,9 @@ A clinical question ("What is hypertension?") answered with a synthesized respon
 
 ![RAG Demo](screenshots/rag-demo.png)
 
-### SQL Demo — Hospital Operations in Action
-Operational questions ("How many patients are there?") routed through the SQL intent path, returning a grounded count directly from PostgreSQL — while correctly declining to answer a follow-up breakdown it doesn't have the data for, rather than guessing.
+### 🗄️ SQL Demo — Hospital Operations in Action
+
+Operational requests such as **"How many departments are there?"** and **"Show all departments."** are automatically classified as SQL queries. The assistant generates the required SQL, retrieves live data from PostgreSQL, and returns both the total department count (**10**) and the complete department list, demonstrating natural-language access to structured hospital data.
 
 ![SQL Demo](screenshots/sql_demo.png)
 

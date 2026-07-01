@@ -1,0 +1,251 @@
+nurse_id,department_id,first_name,last_name,qualification,experience_years,shift,phone,email,status
+NUR0001,DEP008,Jason,Nagar,B.Sc Nursing,20,Night,8899657589,nurse1@hospital.com,Active
+NUR0002,DEP007,Teerth,Krishnamurthy,GNM,15,Night,8441417412,nurse2@hospital.com,Active
+NUR0003,DEP004,Hardik,Kohli,GNM,6,Morning,3679429201,nurse3@hospital.com,Active
+NUR0004,DEP008,Amruta,Hayre,Post Basic B.Sc Nursing,6,Morning,7088707610,nurse4@hospital.com,Active
+NUR0005,DEP002,Kamala,Khatri,GNM,5,Afternoon,2573983890,nurse5@hospital.com,Active
+NUR0006,DEP001,Zehaan,Natarajan,M.Sc Nursing,8,Morning,7305570456,nurse6@hospital.com,Active
+NUR0007,DEP003,Jason,Mand,Post Basic B.Sc Nursing,6,Night,7682545122,nurse7@hospital.com,Active
+NUR0008,DEP003,Laksh,Sinha,GNM,20,Afternoon,2623296352,nurse8@hospital.com,Active
+NUR0009,DEP003,Anirudh,Kalla,GNM,13,Night,1414547299,nurse9@hospital.com,Active
+NUR0010,DEP009,Arunima,Rout,GNM,15,Morning,2071901039,nurse10@hospital.com,Active
+NUR0011,DEP003,Quincy,Thakur,B.Sc Nursing,22,Morning,3008875514,nurse11@hospital.com,Active
+NUR0012,DEP005,Jason,Garde,GNM,19,Night,5268751876,nurse12@hospital.com,Active
+NUR0013,DEP003,Ranbir,Datta,M.Sc Nursing,18,Afternoon,8026005709,nurse13@hospital.com,Active
+NUR0014,DEP009,Lavanya,Apte,GNM,12,Night,5192590955,nurse14@hospital.com,Active
+NUR0015,DEP010,Inaya,Narasimhan,M.Sc Nursing,5,Morning,5746276931,nurse15@hospital.com,Active
+NUR0016,DEP003,Saksham,Shetty,GNM,11,Afternoon,3939562244,nurse16@hospital.com,Active
+NUR0017,DEP003,Viraj,Suresh,B.Sc Nursing,3,Night,3351532576,nurse17@hospital.com,Active
+NUR0018,DEP010,Balendra,Dugar,GNM,16,Afternoon,1813326128,nurse18@hospital.com,Active
+NUR0019,DEP007,Krishna,Puri,Post Basic B.Sc Nursing,12,Afternoon,2362405452,nurse19@hospital.com,Active
+NUR0020,DEP008,Barkha,Shukla,GNM,6,Morning,6368618511,nurse20@hospital.com,Active
+NUR0021,DEP009,Bachittar,Garg,B.Sc Nursing,5,Night,2375275295,nurse21@hospital.com,Active
+NUR0022,DEP008,Rushil,Sankar,Post Basic B.Sc Nursing,14,Night,1004792246,nurse22@hospital.com,Active
+NUR0023,DEP006,Hritik,Lata,B.Sc Nursing,13,Night,8808558186,nurse23@hospital.com,Active
+NUR0024,DEP002,Janaki,Edwin,Post Basic B.Sc Nursing,18,Night,7630252124,nurse24@hospital.com,Active
+NUR0025,DEP007,Chakradev,Aurora,Post Basic B.Sc Nursing,5,Morning,3456743032,nurse25@hospital.com,Active
+NUR0026,DEP003,Maya,Sachar,Post Basic B.Sc Nursing,3,Night,4799564994,nurse26@hospital.com,Active
+NUR0027,DEP004,Adya,Gara,GNM,11,Night,6407790104,nurse27@hospital.com,Active
+NUR0028,DEP008,Osha,Keer,M.Sc Nursing,17,Morning,3636520395,nurse28@hospital.com,Active
+NUR0029,DEP010,Yochana,Dhar,Post Basic B.Sc Nursing,19,Morning,4792687023,nurse29@hospital.com,Active
+NUR0030,DEP005,Eshana,More,Post Basic B.Sc Nursing,20,Night,5962982142,nurse30@hospital.com,Active
+NUR0031,DEP008,Radha,Virk,M.Sc Nursing,25,Afternoon,0925013766,nurse31@hospital.com,Active
+NUR0032,DEP010,Ubika,Bhavsar,Post Basic B.Sc Nursing,12,Night,8388518364,nurse32@hospital.com,Active
+NUR0033,DEP007,Baghyawati,Buch,GNM,10,Afternoon,4690971921,nurse33@hospital.com,Active
+NUR0034,DEP002,Sai,Saha,M.Sc Nursing,2,Morning,6547097276,nurse34@hospital.com,Active
+NUR0035,DEP005,Lajita,Contractor,Post Basic B.Sc Nursing,21,Morning,2976694253,nurse35@hospital.com,Active
+NUR0036,DEP006,Yashasvi,Arya,B.Sc Nursing,13,Night,6886110100,nurse36@hospital.com,Active
+NUR0037,DEP004,Kavya,Seshadri,GNM,12,Afternoon,0086375012,nurse37@hospital.com,Active
+NUR0038,DEP003,Urmi,Shenoy,M.Sc Nursing,3,Morning,2792527117,nurse38@hospital.com,Active
+NUR0039,DEP005,Sara,Wali,B.Sc Nursing,12,Night,7401996191,nurse39@hospital.com,Active
+NUR0040,DEP006,Vamakshi,Vig,Post Basic B.Sc Nursing,4,Morning,6573448744,nurse40@hospital.com,Active
+NUR0041,DEP010,Udant,Rattan,Post Basic B.Sc Nursing,16,Morning,8594819923,nurse41@hospital.com,Active
+NUR0042,DEP004,Meghana,Zachariah,M.Sc Nursing,18,Night,4471070346,nurse42@hospital.com,Active
+NUR0043,DEP010,Bhavani,Bhasin,B.Sc Nursing,2,Night,9817363496,nurse43@hospital.com,Active
+NUR0044,DEP009,Nathan,Nagy,GNM,23,Afternoon,4264338686,nurse44@hospital.com,Active
+NUR0045,DEP001,Andrew,Batra,Post Basic B.Sc Nursing,1,Morning,8313079035,nurse45@hospital.com,Active
+NUR0046,DEP002,Lakshit,Bera,B.Sc Nursing,20,Afternoon,3236317730,nurse46@hospital.com,Active
+NUR0047,DEP006,Omisha,Chahal,Post Basic B.Sc Nursing,22,Night,8456907560,nurse47@hospital.com,Active
+NUR0048,DEP001,Priya,Desai,M.Sc Nursing,13,Night,6084420611,nurse48@hospital.com,Active
+NUR0049,DEP007,Aachal,Chand,M.Sc Nursing,6,Morning,9498562123,nurse49@hospital.com,Active
+NUR0050,DEP008,Joshua,Sankaran,B.Sc Nursing,23,Afternoon,0243151775,nurse50@hospital.com,Active
+NUR0051,DEP009,Kashish,Choudhary,B.Sc Nursing,2,Afternoon,5555593290,nurse51@hospital.com,Active
+NUR0052,DEP001,Mekhala,Patel,Post Basic B.Sc Nursing,17,Afternoon,1589009080,nurse52@hospital.com,Active
+NUR0053,DEP005,Indira,Amble,M.Sc Nursing,4,Afternoon,2611847374,nurse53@hospital.com,Active
+NUR0054,DEP004,Orinder,Chawla,Post Basic B.Sc Nursing,15,Morning,0354151041,nurse54@hospital.com,Active
+NUR0055,DEP005,Nidhi,Contractor,M.Sc Nursing,12,Night,9485219724,nurse55@hospital.com,Active
+NUR0056,DEP006,Warjas,Sani,M.Sc Nursing,8,Night,3863395216,nurse56@hospital.com,Active
+NUR0057,DEP009,Yug,Nanda,B.Sc Nursing,7,Afternoon,5838774802,nurse57@hospital.com,Active
+NUR0058,DEP007,Neel,Gola,M.Sc Nursing,23,Night,8049091555,nurse58@hospital.com,Active
+NUR0059,DEP002,Sanaya,Anand,Post Basic B.Sc Nursing,15,Afternoon,3510980808,nurse59@hospital.com,Active
+NUR0060,DEP007,Ubika,Tak,GNM,25,Night,8280068067,nurse60@hospital.com,Active
+NUR0061,DEP002,Maanav,Nagar,B.Sc Nursing,12,Afternoon,9184517002,nurse61@hospital.com,Active
+NUR0062,DEP007,Aadi,Lall,GNM,24,Morning,9099178182,nurse62@hospital.com,Active
+NUR0063,DEP005,Vrishti,Choudhry,B.Sc Nursing,22,Afternoon,1856839378,nurse63@hospital.com,Active
+NUR0064,DEP001,Radha,Madan,M.Sc Nursing,21,Night,2050622864,nurse64@hospital.com,Active
+NUR0065,DEP005,Harinakshi,Rajagopal,Post Basic B.Sc Nursing,4,Night,7182807398,nurse65@hospital.com,Active
+NUR0066,DEP001,Anya,Jhaveri,GNM,5,Morning,6611650086,nurse66@hospital.com,Active
+NUR0067,DEP007,Lohit,Khurana,GNM,12,Night,0959532259,nurse67@hospital.com,Active
+NUR0068,DEP006,Faraj,Savant,B.Sc Nursing,21,Afternoon,3807141109,nurse68@hospital.com,Active
+NUR0069,DEP002,Noah,Wali,B.Sc Nursing,20,Night,8501068663,nurse69@hospital.com,Active
+NUR0070,DEP010,Isaac,Chawla,B.Sc Nursing,2,Morning,6628378847,nurse70@hospital.com,Active
+NUR0071,DEP002,Leela,Sura,M.Sc Nursing,5,Afternoon,1136783048,nurse71@hospital.com,Active
+NUR0072,DEP008,Darika,Taneja,M.Sc Nursing,2,Morning,5306604460,nurse72@hospital.com,Active
+NUR0073,DEP006,Bakhshi,Raja,GNM,7,Afternoon,6949557889,nurse73@hospital.com,Active
+NUR0074,DEP010,Harinakshi,Anne,B.Sc Nursing,16,Afternoon,2774639570,nurse74@hospital.com,Active
+NUR0075,DEP010,Darika,Srinivasan,B.Sc Nursing,6,Night,1234932784,nurse75@hospital.com,Active
+NUR0076,DEP003,Edhitha,Shanker,Post Basic B.Sc Nursing,6,Night,5646002799,nurse76@hospital.com,Active
+NUR0077,DEP002,Ishwar,Thakur,M.Sc Nursing,25,Morning,0021027742,nurse77@hospital.com,Active
+NUR0078,DEP005,Ishanvi,Dixit,GNM,17,Morning,2058228032,nurse78@hospital.com,Active
+NUR0079,DEP002,Ikshita,Devi,Post Basic B.Sc Nursing,19,Night,9247765083,nurse79@hospital.com,Active
+NUR0080,DEP002,Anmol,Johal,M.Sc Nursing,12,Night,2638034520,nurse80@hospital.com,Active
+NUR0081,DEP008,Mitesh,Krishnamurthy,M.Sc Nursing,8,Afternoon,0052713527,nurse81@hospital.com,Active
+NUR0082,DEP010,Megha,Sabharwal,Post Basic B.Sc Nursing,16,Night,5529470077,nurse82@hospital.com,Active
+NUR0083,DEP001,Dev,Chaudry,B.Sc Nursing,12,Morning,7097148361,nurse83@hospital.com,Active
+NUR0084,DEP006,Girik,Soman,B.Sc Nursing,6,Morning,7643064126,nurse84@hospital.com,Active
+NUR0085,DEP010,Raksha,Sinha,B.Sc Nursing,18,Morning,5735369755,nurse85@hospital.com,Active
+NUR0086,DEP006,Siddharth,Ratta,B.Sc Nursing,3,Morning,3317253498,nurse86@hospital.com,Active
+NUR0087,DEP007,Dipta,Biswas,GNM,24,Morning,8315456194,nurse87@hospital.com,Active
+NUR0088,DEP007,Anya,Chanda,B.Sc Nursing,14,Afternoon,5912970321,nurse88@hospital.com,Active
+NUR0089,DEP009,Anya,Natt,M.Sc Nursing,5,Morning,2247640790,nurse89@hospital.com,Active
+NUR0090,DEP008,Chanakya,Goyal,B.Sc Nursing,24,Night,4323431709,nurse90@hospital.com,Active
+NUR0091,DEP006,Nakul,Chadha,GNM,10,Morning,1654449990,nurse91@hospital.com,Active
+NUR0092,DEP007,Damyanti,Dhawan,M.Sc Nursing,8,Morning,2358248396,nurse92@hospital.com,Active
+NUR0093,DEP005,Abdul,Dey,GNM,15,Night,4559007984,nurse93@hospital.com,Active
+NUR0094,DEP002,Arjun,Master,Post Basic B.Sc Nursing,17,Night,1575667176,nurse94@hospital.com,Active
+NUR0095,DEP003,Vinaya,Wali,M.Sc Nursing,21,Morning,9887216670,nurse95@hospital.com,Active
+NUR0096,DEP009,Ekanta,Nigam,M.Sc Nursing,7,Night,2614345783,nurse96@hospital.com,Active
+NUR0097,DEP002,Sarthak,Deshmukh,GNM,6,Night,4279184355,nurse97@hospital.com,Active
+NUR0098,DEP005,Arunima,Ravel,GNM,12,Afternoon,4144276959,nurse98@hospital.com,Active
+NUR0099,DEP009,Aahana,Menon,GNM,5,Afternoon,6138926767,nurse99@hospital.com,Active
+NUR0100,DEP007,Pallavi,Khosla,Post Basic B.Sc Nursing,18,Morning,4794343301,nurse100@hospital.com,Active
+NUR0101,DEP008,Ekansh,Kara,Post Basic B.Sc Nursing,10,Afternoon,5719598691,nurse101@hospital.com,Active
+NUR0102,DEP001,Lipika,Ghosh,GNM,15,Afternoon,6496568331,nurse102@hospital.com,Active
+NUR0103,DEP003,Harini,Bera,M.Sc Nursing,9,Afternoon,3074111650,nurse103@hospital.com,Active
+NUR0104,DEP002,Dayita,Char,Post Basic B.Sc Nursing,12,Morning,4988858638,nurse104@hospital.com,Active
+NUR0105,DEP002,Rudra,Narayanan,B.Sc Nursing,5,Afternoon,5293884899,nurse105@hospital.com,Active
+NUR0106,DEP002,Falan,Chadha,Post Basic B.Sc Nursing,21,Morning,2651348872,nurse106@hospital.com,Active
+NUR0107,DEP002,Ucchal,Krishnan,B.Sc Nursing,23,Morning,7083000714,nurse107@hospital.com,Active
+NUR0108,DEP001,Lakshit,Ratta,M.Sc Nursing,3,Night,6965709672,nurse108@hospital.com,Active
+NUR0109,DEP005,Alexander,Sahni,M.Sc Nursing,4,Afternoon,9959219985,nurse109@hospital.com,Active
+NUR0110,DEP001,Jairaj,Sura,B.Sc Nursing,13,Night,5326616062,nurse110@hospital.com,Active
+NUR0111,DEP002,Osha,Sur,B.Sc Nursing,19,Afternoon,6208760565,nurse111@hospital.com,Active
+NUR0112,DEP008,Jason,Pillai,B.Sc Nursing,24,Afternoon,3904214720,nurse112@hospital.com,Active
+NUR0113,DEP003,Aarini,Saraf,M.Sc Nursing,6,Night,1418700419,nurse113@hospital.com,Active
+NUR0114,DEP002,Yagnesh,Pillai,Post Basic B.Sc Nursing,25,Morning,1897148964,nurse114@hospital.com,Active
+NUR0115,DEP001,Mohammed,Mand,Post Basic B.Sc Nursing,12,Night,8621264346,nurse115@hospital.com,Active
+NUR0116,DEP001,Maanav,Naidu,GNM,15,Morning,6424445465,nurse116@hospital.com,Active
+NUR0117,DEP004,Raagini,Mutti,M.Sc Nursing,14,Night,1119760721,nurse117@hospital.com,Active
+NUR0118,DEP004,Oviya,Talwar,M.Sc Nursing,15,Afternoon,0863207273,nurse118@hospital.com,Active
+NUR0119,DEP007,Jeet,Babu,M.Sc Nursing,25,Afternoon,6313180506,nurse119@hospital.com,Active
+NUR0120,DEP003,Sara,Manda,B.Sc Nursing,9,Morning,9312204865,nurse120@hospital.com,Active
+NUR0121,DEP001,Nandini,Apte,M.Sc Nursing,3,Night,2674595466,nurse121@hospital.com,Active
+NUR0122,DEP010,Ucchal,Parmer,M.Sc Nursing,20,Night,8378421073,nurse122@hospital.com,Active
+NUR0123,DEP009,Raghav,Chokshi,B.Sc Nursing,13,Morning,1365722618,nurse123@hospital.com,Active
+NUR0124,DEP009,Wishi,Solanki,B.Sc Nursing,12,Night,2295643514,nurse124@hospital.com,Active
+NUR0125,DEP007,Akshay,Prasad,Post Basic B.Sc Nursing,12,Afternoon,9475469725,nurse125@hospital.com,Active
+NUR0126,DEP001,Zilmil,Gour,GNM,21,Night,7761521699,nurse126@hospital.com,Active
+NUR0127,DEP005,Peter,Padmanabhan,Post Basic B.Sc Nursing,3,Afternoon,2193135521,nurse127@hospital.com,Active
+NUR0128,DEP009,Imaran,Mannan,M.Sc Nursing,7,Morning,9217874787,nurse128@hospital.com,Active
+NUR0129,DEP010,Veer,Mital,Post Basic B.Sc Nursing,3,Afternoon,7163560077,nurse129@hospital.com,Active
+NUR0130,DEP005,Aachal,Kalita,Post Basic B.Sc Nursing,24,Afternoon,3231387191,nurse130@hospital.com,Active
+NUR0131,DEP002,Lucky,Ratta,B.Sc Nursing,19,Night,6568018717,nurse131@hospital.com,Active
+NUR0132,DEP004,Jonathan,Zachariah,GNM,8,Night,0058135319,nurse132@hospital.com,Active
+NUR0133,DEP003,Yochana,Natt,Post Basic B.Sc Nursing,15,Afternoon,3255509865,nurse133@hospital.com,Active
+NUR0134,DEP005,Abha,Gera,M.Sc Nursing,7,Afternoon,0056992991,nurse134@hospital.com,Active
+NUR0135,DEP003,Bhavika,Dutta,B.Sc Nursing,23,Afternoon,6841860148,nurse135@hospital.com,Active
+NUR0136,DEP004,Hritik,Behl,Post Basic B.Sc Nursing,2,Morning,6642715879,nurse136@hospital.com,Active
+NUR0137,DEP003,Ansh,Mukherjee,Post Basic B.Sc Nursing,17,Afternoon,9133209318,nurse137@hospital.com,Active
+NUR0138,DEP009,Banjeet,Apte,GNM,9,Morning,2239117213,nurse138@hospital.com,Active
+NUR0139,DEP004,Meghana,Seshadri,M.Sc Nursing,2,Afternoon,3699620957,nurse139@hospital.com,Active
+NUR0140,DEP007,Bishakha,Dhaliwal,GNM,1,Morning,1501728875,nurse140@hospital.com,Active
+NUR0141,DEP009,Pushti,Mammen,B.Sc Nursing,10,Afternoon,5996792588,nurse141@hospital.com,Active
+NUR0142,DEP006,Chandran,Dora,GNM,19,Afternoon,6201978874,nurse142@hospital.com,Active
+NUR0143,DEP002,Zayan,Ghose,Post Basic B.Sc Nursing,20,Morning,0878808067,nurse143@hospital.com,Active
+NUR0144,DEP004,Faris,Lanka,M.Sc Nursing,3,Afternoon,2115757359,nurse144@hospital.com,Active
+NUR0145,DEP002,Isaiah,Pant,GNM,11,Morning,6491299425,nurse145@hospital.com,Active
+NUR0146,DEP009,Yauvani,Chhabra,GNM,10,Morning,2416783864,nurse146@hospital.com,Active
+NUR0147,DEP001,Sai,Bala,M.Sc Nursing,4,Morning,4074756380,nurse147@hospital.com,Active
+NUR0148,DEP001,Qadim,Varughese,GNM,5,Morning,2807646397,nurse148@hospital.com,Active
+NUR0149,DEP005,Krishna,Chhabra,GNM,8,Night,0913037319,nurse149@hospital.com,Active
+NUR0150,DEP010,Eshana,Atwal,GNM,21,Afternoon,1911616749,nurse150@hospital.com,Active
+NUR0151,DEP006,Nilima,Singh,Post Basic B.Sc Nursing,5,Night,3985335580,nurse151@hospital.com,Active
+NUR0152,DEP008,Arunima,Khatri,Post Basic B.Sc Nursing,15,Night,7861598970,nurse152@hospital.com,Active
+NUR0153,DEP002,Dayita,Wadhwa,GNM,22,Night,6092948329,nurse153@hospital.com,Active
+NUR0154,DEP002,Harinakshi,Merchant,Post Basic B.Sc Nursing,14,Morning,2418609310,nurse154@hospital.com,Active
+NUR0155,DEP001,Tripti,Balan,Post Basic B.Sc Nursing,2,Night,2953077056,nurse155@hospital.com,Active
+NUR0156,DEP009,Nisha,Sidhu,B.Sc Nursing,24,Morning,0392026040,nurse156@hospital.com,Active
+NUR0157,DEP004,Warinder,Raman,M.Sc Nursing,16,Afternoon,5010823729,nurse157@hospital.com,Active
+NUR0158,DEP005,Qasim,Bansal,M.Sc Nursing,14,Afternoon,8508629324,nurse158@hospital.com,Active
+NUR0159,DEP006,Charita,Natarajan,Post Basic B.Sc Nursing,25,Afternoon,7880618109,nurse159@hospital.com,Active
+NUR0160,DEP001,Mahika,Sagar,B.Sc Nursing,7,Afternoon,9175730685,nurse160@hospital.com,Active
+NUR0161,DEP010,Mason,Shukla,Post Basic B.Sc Nursing,20,Afternoon,6235250491,nurse161@hospital.com,Active
+NUR0162,DEP008,Zansi,Palla,M.Sc Nursing,8,Night,8663605402,nurse162@hospital.com,Active
+NUR0163,DEP001,Nilima,Sheth,M.Sc Nursing,8,Night,9177611976,nurse163@hospital.com,Active
+NUR0164,DEP001,Andrew,Minhas,M.Sc Nursing,11,Morning,0443523434,nurse164@hospital.com,Active
+NUR0165,DEP002,Bhavya,Tara,B.Sc Nursing,4,Night,7118828803,nurse165@hospital.com,Active
+NUR0166,DEP009,Zayan,Pathak,M.Sc Nursing,9,Night,1156821487,nurse166@hospital.com,Active
+NUR0167,DEP008,Oeshi,Issac,Post Basic B.Sc Nursing,18,Night,3449418492,nurse167@hospital.com,Active
+NUR0168,DEP003,Aarini,Lad,GNM,5,Morning,8249902337,nurse168@hospital.com,Active
+NUR0169,DEP004,Arya,Sagar,M.Sc Nursing,17,Morning,9052483965,nurse169@hospital.com,Active
+NUR0170,DEP008,Brinda,Nayar,M.Sc Nursing,20,Morning,2884628346,nurse170@hospital.com,Active
+NUR0171,DEP005,Idika,Radhakrishnan,Post Basic B.Sc Nursing,25,Afternoon,7366454992,nurse171@hospital.com,Active
+NUR0172,DEP007,Owen,Loyal,B.Sc Nursing,3,Night,5786418568,nurse172@hospital.com,Active
+NUR0173,DEP007,Ekta,Kulkarni,GNM,12,Night,2312747671,nurse173@hospital.com,Active
+NUR0174,DEP001,Turvi,Garde,B.Sc Nursing,4,Morning,5546616948,nurse174@hospital.com,Active
+NUR0175,DEP004,Vrishti,Bath,M.Sc Nursing,6,Afternoon,8778772993,nurse175@hospital.com,Active
+NUR0176,DEP001,Tanay,Kala,Post Basic B.Sc Nursing,3,Night,9088122995,nurse176@hospital.com,Active
+NUR0177,DEP008,Indali,Minhas,Post Basic B.Sc Nursing,1,Afternoon,2440930886,nurse177@hospital.com,Active
+NUR0178,DEP009,Devansh,Pall,Post Basic B.Sc Nursing,6,Afternoon,8108399729,nurse178@hospital.com,Active
+NUR0179,DEP003,Panini,Lala,Post Basic B.Sc Nursing,17,Morning,8944515743,nurse179@hospital.com,Active
+NUR0180,DEP009,Viraj,Sur,GNM,17,Afternoon,2350972266,nurse180@hospital.com,Active
+NUR0181,DEP009,Advaith,Kothari,M.Sc Nursing,22,Night,8093499883,nurse181@hospital.com,Active
+NUR0182,DEP006,Dakshesh,Naik,Post Basic B.Sc Nursing,7,Morning,6179060489,nurse182@hospital.com,Active
+NUR0183,DEP001,Wridesh,Buch,GNM,11,Afternoon,8193954233,nurse183@hospital.com,Active
+NUR0184,DEP003,Raagini,Kade,GNM,4,Afternoon,8791670387,nurse184@hospital.com,Active
+NUR0185,DEP008,Finn,Natarajan,M.Sc Nursing,1,Night,6774892006,nurse185@hospital.com,Active
+NUR0186,DEP004,Bhavna,Sahota,Post Basic B.Sc Nursing,8,Night,5883238970,nurse186@hospital.com,Active
+NUR0187,DEP009,Janani,Koshy,M.Sc Nursing,5,Morning,5796661751,nurse187@hospital.com,Active
+NUR0188,DEP001,Balvan,Parmer,GNM,15,Afternoon,9369608135,nurse188@hospital.com,Active
+NUR0189,DEP004,Sathvik,Rau,Post Basic B.Sc Nursing,2,Afternoon,6050075973,nurse189@hospital.com,Active
+NUR0190,DEP005,Aahana,Natarajan,M.Sc Nursing,8,Afternoon,9927248483,nurse190@hospital.com,Active
+NUR0191,DEP007,Yuvraj,Srivastava,B.Sc Nursing,25,Morning,2092440221,nurse191@hospital.com,Active
+NUR0192,DEP001,Manbir,Mani,GNM,8,Morning,6590589441,nurse192@hospital.com,Active
+NUR0193,DEP008,Manan,Bora,B.Sc Nursing,16,Night,3229423222,nurse193@hospital.com,Active
+NUR0194,DEP005,Sanaya,Koshy,GNM,7,Night,1107653821,nurse194@hospital.com,Active
+NUR0195,DEP009,Lavanya,Kale,Post Basic B.Sc Nursing,7,Night,2385368485,nurse195@hospital.com,Active
+NUR0196,DEP010,Christopher,Dhar,GNM,13,Morning,4451600896,nurse196@hospital.com,Active
+NUR0197,DEP008,Geetika,Srinivas,GNM,7,Morning,4776835652,nurse197@hospital.com,Active
+NUR0198,DEP002,Yasti,Vig,M.Sc Nursing,12,Night,4856541863,nurse198@hospital.com,Active
+NUR0199,DEP004,Harita,Sinha,M.Sc Nursing,12,Afternoon,9771854564,nurse199@hospital.com,Active
+NUR0200,DEP010,Zayan,Mangat,M.Sc Nursing,13,Afternoon,3319334118,nurse200@hospital.com,Active
+NUR0201,DEP007,Eshana,Sura,Post Basic B.Sc Nursing,10,Afternoon,4920900900,nurse201@hospital.com,Active
+NUR0202,DEP009,Sanya,De,B.Sc Nursing,9,Afternoon,0716610583,nurse202@hospital.com,Active
+NUR0203,DEP004,Darika,Samra,B.Sc Nursing,9,Afternoon,6401651563,nurse203@hospital.com,Active
+NUR0204,DEP009,Yamini,Raman,B.Sc Nursing,11,Morning,1195476124,nurse204@hospital.com,Active
+NUR0205,DEP001,Falguni,Varkey,B.Sc Nursing,3,Morning,8475893341,nurse205@hospital.com,Active
+NUR0206,DEP001,Teerth,Ratti,M.Sc Nursing,16,Night,5937683683,nurse206@hospital.com,Active
+NUR0207,DEP010,Amaira,Loke,B.Sc Nursing,12,Afternoon,6816046477,nurse207@hospital.com,Active
+NUR0208,DEP001,Faraj,Talwar,B.Sc Nursing,14,Night,2286342551,nurse208@hospital.com,Active
+NUR0209,DEP006,Veda,Kurian,M.Sc Nursing,13,Morning,3481303159,nurse209@hospital.com,Active
+NUR0210,DEP004,Rehaan,Bali,M.Sc Nursing,9,Morning,7096317270,nurse210@hospital.com,Active
+NUR0211,DEP009,Mitali,Tailor,B.Sc Nursing,20,Morning,4862343805,nurse211@hospital.com,Active
+NUR0212,DEP001,Arunima,Nanda,GNM,6,Afternoon,9197835816,nurse212@hospital.com,Active
+NUR0213,DEP003,Indrajit,Parmar,Post Basic B.Sc Nursing,12,Afternoon,4926993294,nurse213@hospital.com,Active
+NUR0214,DEP008,Barkha,Tata,M.Sc Nursing,3,Afternoon,8928397471,nurse214@hospital.com,Active
+NUR0215,DEP004,Yash,Dayal,B.Sc Nursing,9,Morning,7973155628,nurse215@hospital.com,Active
+NUR0216,DEP009,Gayathri,Korpal,GNM,6,Morning,8173123826,nurse216@hospital.com,Active
+NUR0217,DEP008,Udyati,Kalita,B.Sc Nursing,24,Night,6571586099,nurse217@hospital.com,Active
+NUR0218,DEP003,George,Badal,M.Sc Nursing,17,Morning,3736222331,nurse218@hospital.com,Active
+NUR0219,DEP003,Sneha,Mitra,GNM,4,Morning,9523338192,nurse219@hospital.com,Active
+NUR0220,DEP008,Maanav,Suresh,GNM,11,Afternoon,7003515392,nurse220@hospital.com,Active
+NUR0221,DEP001,Ekanta,Nagar,Post Basic B.Sc Nursing,8,Afternoon,5223402939,nurse221@hospital.com,Active
+NUR0222,DEP005,Gayathri,Bera,GNM,17,Morning,6832482572,nurse222@hospital.com,Active
+NUR0223,DEP007,Thomas,Sur,Post Basic B.Sc Nursing,5,Morning,7067272069,nurse223@hospital.com,Active
+NUR0224,DEP010,Falguni,Karan,Post Basic B.Sc Nursing,19,Night,0323033175,nurse224@hospital.com,Active
+NUR0225,DEP002,Laban,Din,B.Sc Nursing,4,Night,7932161149,nurse225@hospital.com,Active
+NUR0226,DEP007,Eta,Banik,GNM,13,Night,9712382974,nurse226@hospital.com,Active
+NUR0227,DEP008,Panini,Chauhan,Post Basic B.Sc Nursing,18,Morning,6943336358,nurse227@hospital.com,Active
+NUR0228,DEP003,Radhika,Sood,B.Sc Nursing,3,Afternoon,8409672437,nurse228@hospital.com,Active
+NUR0229,DEP003,Aarna,Buch,Post Basic B.Sc Nursing,16,Morning,7199485800,nurse229@hospital.com,Active
+NUR0230,DEP006,Ekanta,Jhaveri,GNM,19,Afternoon,0808248585,nurse230@hospital.com,Active
+NUR0231,DEP001,Hritik,Chhabra,GNM,9,Morning,5450249691,nurse231@hospital.com,Active
+NUR0232,DEP006,Azaan,Parmar,B.Sc Nursing,10,Afternoon,8935934422,nurse232@hospital.com,Active
+NUR0233,DEP001,Naksh,Sha,M.Sc Nursing,23,Afternoon,9202513478,nurse233@hospital.com,Active
+NUR0234,DEP009,Krish,Ramaswamy,Post Basic B.Sc Nursing,17,Morning,6587203133,nurse234@hospital.com,Active
+NUR0235,DEP010,Bahadurjit,Loyal,B.Sc Nursing,9,Night,8804503721,nurse235@hospital.com,Active
+NUR0236,DEP010,Dev,Agate,GNM,17,Afternoon,2739041205,nurse236@hospital.com,Active
+NUR0237,DEP005,Jacob,Nagarajan,GNM,4,Night,2331346261,nurse237@hospital.com,Active
+NUR0238,DEP003,Reyansh,Kalla,Post Basic B.Sc Nursing,1,Night,8107405526,nurse238@hospital.com,Active
+NUR0239,DEP010,Benjamin,Madan,B.Sc Nursing,11,Afternoon,7963615350,nurse239@hospital.com,Active
+NUR0240,DEP003,Nakul,Choudhry,GNM,15,Afternoon,3210295860,nurse240@hospital.com,Active
+NUR0241,DEP002,Maya,Agrawal,Post Basic B.Sc Nursing,11,Morning,3966239815,nurse241@hospital.com,Active
+NUR0242,DEP004,Logan,Keer,M.Sc Nursing,12,Morning,3914322977,nurse242@hospital.com,Active
+NUR0243,DEP004,Neel,Bhardwaj,B.Sc Nursing,18,Night,0643589035,nurse243@hospital.com,Active
+NUR0244,DEP004,Lajita,Nadkarni,GNM,11,Morning,1459167791,nurse244@hospital.com,Active
+NUR0245,DEP005,Daniel,Bail,Post Basic B.Sc Nursing,10,Afternoon,4281467862,nurse245@hospital.com,Active
+NUR0246,DEP003,Odika,Karnik,B.Sc Nursing,23,Afternoon,4118971053,nurse246@hospital.com,Active
+NUR0247,DEP004,Tristan,Bhagat,Post Basic B.Sc Nursing,8,Night,9676972757,nurse247@hospital.com,Active
+NUR0248,DEP005,Chavvi,Virk,GNM,14,Afternoon,7726142421,nurse248@hospital.com,Active
+NUR0249,DEP008,Kalpit,Kothari,B.Sc Nursing,3,Morning,3496778318,nurse249@hospital.com,Active
+NUR0250,DEP003,Ekavir,Naidu,M.Sc Nursing,14,Morning,4239120632,nurse250@hospital.com,Active

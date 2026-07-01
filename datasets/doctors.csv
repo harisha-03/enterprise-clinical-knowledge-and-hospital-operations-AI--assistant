@@ -1,0 +1,101 @@
+doctor_id,department_id,first_name,last_name,specialization,qualification,experience_years,phone,email,consultation_fee,status
+DOC0001,DEP010,Vamakshi,Karan,General Medicine,"MBBS, DNB",13,9747302606,doctor1@hospital.com,1913,Active
+DOC0002,DEP004,Arin,Soman,Emergency,"MBBS, DNB",35,8600324841,doctor2@hospital.com,1042,Active
+DOC0003,DEP010,Saumya,Sampath,General Medicine,"MBBS, DNB",14,7706143906,doctor3@hospital.com,1049,Active
+DOC0004,DEP004,Kamya,Mann,Emergency,"MBBS, DM",6,9261811411,doctor4@hospital.com,1975,Active
+DOC0005,DEP007,Harini,Subramanian,Radiology,"MBBS, MS",21,2500916254,doctor5@hospital.com,1015,Active
+DOC0006,DEP008,Ekanta,Bhat,Laboratory,"MBBS, DNB",28,3239114416,doctor6@hospital.com,895,Active
+DOC0007,DEP009,Damini,Sehgal,Oncology,"MBBS, MD",13,5708957294,doctor7@hospital.com,1667,Active
+DOC0008,DEP005,Dhruv,Gulati,ICU,"MBBS, DM",23,4464261049,doctor8@hospital.com,993,Active
+DOC0009,DEP010,Ekaja,Chander,General Medicine,"MBBS, MS",13,7632278598,doctor9@hospital.com,323,Active
+DOC0010,DEP006,Gagan,Naik,Pediatrics,"MBBS, MS",2,9428708766,doctor10@hospital.com,1016,Active
+DOC0011,DEP009,Harini,Agate,Oncology,"MBBS, DM",30,4180002647,doctor11@hospital.com,844,Active
+DOC0012,DEP004,Maanav,Master,Emergency,"MBBS, MD",23,2531823479,doctor12@hospital.com,1250,Active
+DOC0013,DEP002,Janani,Krish,Neurology,"MBBS, DM",7,8291266669,doctor13@hospital.com,1900,Active
+DOC0014,DEP010,Widisha,Kalla,General Medicine,"MBBS, MS",34,9172119309,doctor14@hospital.com,510,Active
+DOC0015,DEP010,Dalaja,Barad,General Medicine,"MBBS, DM",27,3578060152,doctor15@hospital.com,1228,Active
+DOC0016,DEP003,Ganga,Badami,Orthopedics,"MBBS, DNB",33,2842765038,doctor16@hospital.com,1697,Active
+DOC0017,DEP003,Qasim,Mody,Orthopedics,"MBBS, DNB",8,3018884462,doctor17@hospital.com,591,Active
+DOC0018,DEP004,Chandran,Kale,Emergency,"MBBS, MD",28,8557173155,doctor18@hospital.com,1585,Active
+DOC0019,DEP002,Lavanya,Ramaswamy,Neurology,"MBBS, DNB",17,9097720253,doctor19@hospital.com,820,Active
+DOC0020,DEP008,Girindra,Jain,Laboratory,"MBBS, MD",15,6879056240,doctor20@hospital.com,492,Active
+DOC0021,DEP002,Pooja,Mishra,Neurology,"MBBS, DNB",13,5480199609,doctor21@hospital.com,534,Active
+DOC0022,DEP008,Oscar,Jha,Laboratory,"MBBS, MD",21,3925091855,doctor22@hospital.com,1101,Active
+DOC0023,DEP008,Aadi,Dugal,Laboratory,"MBBS, DNB",26,2072199495,doctor23@hospital.com,1256,Active
+DOC0024,DEP009,Chanakya,Nagi,Oncology,"MBBS, MD",11,7726114373,doctor24@hospital.com,1199,Active
+DOC0025,DEP008,Omisha,Dave,Laboratory,"MBBS, DM",22,4928569781,doctor25@hospital.com,1675,Active
+DOC0026,DEP006,Raksha,Khanna,Pediatrics,"MBBS, MS",13,8127128069,doctor26@hospital.com,657,Active
+DOC0027,DEP010,Kashvi,Chaudhary,General Medicine,"MBBS, MS",11,5979187447,doctor27@hospital.com,1415,Active
+DOC0028,DEP006,Lavanya,Kala,Pediatrics,"MBBS, MS",20,7873403288,doctor28@hospital.com,377,Active
+DOC0029,DEP009,Nicholas,Lad,Oncology,"MBBS, DM",26,5248428180,doctor29@hospital.com,1686,Active
+DOC0030,DEP006,Madhavi,Kashyap,Pediatrics,"MBBS, DM",7,7183955107,doctor30@hospital.com,399,Active
+DOC0031,DEP006,Aarini,Wali,Pediatrics,"MBBS, MS",33,9466787066,doctor31@hospital.com,715,Active
+DOC0032,DEP010,Banjeet,Sarma,General Medicine,"MBBS, DNB",25,5429783962,doctor32@hospital.com,1328,Active
+DOC0033,DEP006,Zayan,De,Pediatrics,"MBBS, MS",12,1654127533,doctor33@hospital.com,1263,Active
+DOC0034,DEP002,Xiti,Choudhry,Neurology,"MBBS, DM",12,9015570442,doctor34@hospital.com,525,Active
+DOC0035,DEP004,Libni,Salvi,Emergency,"MBBS, MS",18,8489063177,doctor35@hospital.com,1938,Active
+DOC0036,DEP009,Saksham,Saraf,Oncology,"MBBS, MD",14,2902784016,doctor36@hospital.com,1514,Active
+DOC0037,DEP007,Jack,Sankar,Radiology,"MBBS, MS",11,2686604614,doctor37@hospital.com,437,Active
+DOC0038,DEP002,Osha,Bora,Neurology,"MBBS, DM",20,7936907498,doctor38@hospital.com,543,Active
+DOC0039,DEP002,Jagvi,Biswas,Neurology,"MBBS, MD",26,4458593062,doctor39@hospital.com,306,Active
+DOC0040,DEP008,Warhi,Bhalla,Laboratory,"MBBS, DNB",19,7152708553,doctor40@hospital.com,1523,Active
+DOC0041,DEP002,Abhiram,Khurana,Neurology,"MBBS, MS",6,0415567649,doctor41@hospital.com,415,Active
+DOC0042,DEP008,Karan,Bhatti,Laboratory,"MBBS, MS",8,7824350919,doctor42@hospital.com,354,Active
+DOC0043,DEP007,Mohini,Golla,Radiology,"MBBS, MS",23,5503253054,doctor43@hospital.com,1298,Active
+DOC0044,DEP007,Ekansh,Gokhale,Radiology,"MBBS, DNB",29,2468790822,doctor44@hospital.com,1968,Active
+DOC0045,DEP005,Charan,Dey,ICU,"MBBS, MD",16,0948415230,doctor45@hospital.com,932,Active
+DOC0046,DEP003,Hemani,Dhaliwal,Orthopedics,"MBBS, DM",9,1986168360,doctor46@hospital.com,1308,Active
+DOC0047,DEP007,Ati,Bumb,Radiology,"MBBS, MS",14,9871380089,doctor47@hospital.com,1293,Active
+DOC0048,DEP005,Wishi,Palla,ICU,"MBBS, DNB",23,7787221143,doctor48@hospital.com,696,Active
+DOC0049,DEP006,Jack,Nanda,Pediatrics,"MBBS, MD",26,9665148487,doctor49@hospital.com,1504,Active
+DOC0050,DEP002,Ekapad,Sarna,Neurology,"MBBS, MS",7,8772985799,doctor50@hospital.com,1713,Active
+DOC0051,DEP006,Libni,Tak,Pediatrics,"MBBS, MD",18,5056904298,doctor51@hospital.com,1701,Active
+DOC0052,DEP009,Watika,Kamdar,Oncology,"MBBS, MD",23,0053230567,doctor52@hospital.com,432,Active
+DOC0053,DEP010,Vansha,Nagy,General Medicine,"MBBS, MS",19,8490906857,doctor53@hospital.com,1660,Active
+DOC0054,DEP006,Nikita,Pandya,Pediatrics,"MBBS, MD",13,9098310290,doctor54@hospital.com,555,Active
+DOC0055,DEP010,Bimala,Bora,General Medicine,"MBBS, DM",6,2699344591,doctor55@hospital.com,668,Active
+DOC0056,DEP004,Orinder,Natarajan,Emergency,"MBBS, MS",27,2868571969,doctor56@hospital.com,1676,Active
+DOC0057,DEP009,Hamsini,Ram,Oncology,"MBBS, MD",10,4591515681,doctor57@hospital.com,1090,Active
+DOC0058,DEP002,Vrinda,Kanda,Neurology,"MBBS, DNB",20,5583261023,doctor58@hospital.com,1366,Active
+DOC0059,DEP003,Aarna,Rajagopalan,Orthopedics,"MBBS, DNB",5,7545641349,doctor59@hospital.com,1584,Active
+DOC0060,DEP003,Nimrat,Bal,Orthopedics,"MBBS, MD",28,7325245263,doctor60@hospital.com,1494,Active
+DOC0061,DEP001,Hamsini,Swamy,Cardiology,"MBBS, DNB",11,5921573725,doctor61@hospital.com,875,Active
+DOC0062,DEP006,Ati,Goel,Pediatrics,"MBBS, MS",10,4132957503,doctor62@hospital.com,1452,Active
+DOC0063,DEP002,Charvi,Batra,Neurology,"MBBS, DNB",19,8660251755,doctor63@hospital.com,1888,Active
+DOC0064,DEP005,Zarna,Nadig,ICU,"MBBS, DNB",27,2604823981,doctor64@hospital.com,1918,Active
+DOC0065,DEP004,Devika,Sarin,Emergency,"MBBS, MS",10,0683247392,doctor65@hospital.com,1228,Active
+DOC0066,DEP005,Chatura,Tata,ICU,"MBBS, MS",26,0719590120,doctor66@hospital.com,1618,Active
+DOC0067,DEP005,Udarsh,Kala,ICU,"MBBS, DM",33,2716055189,doctor67@hospital.com,562,Active
+DOC0068,DEP005,Upkaar,Chhabra,ICU,"MBBS, DM",25,9119657614,doctor68@hospital.com,1048,Active
+DOC0069,DEP010,Vidhi,Puri,General Medicine,"MBBS, DM",15,8147025358,doctor69@hospital.com,872,Active
+DOC0070,DEP009,Wridesh,Din,Oncology,"MBBS, DNB",15,1749245043,doctor70@hospital.com,1777,Active
+DOC0071,DEP010,Omya,Sekhon,General Medicine,"MBBS, DNB",27,1407976201,doctor71@hospital.com,1621,Active
+DOC0072,DEP007,Urvashi,Shan,Radiology,"MBBS, MD",31,4869580235,doctor72@hospital.com,1914,Active
+DOC0073,DEP002,Chatresh,Tripathi,Neurology,"MBBS, DM",34,2413168397,doctor73@hospital.com,1812,Active
+DOC0074,DEP003,Gaurika,Kurian,Orthopedics,"MBBS, DM",3,1006171457,doctor74@hospital.com,307,Active
+DOC0075,DEP004,Chatresh,Johal,Emergency,"MBBS, DM",34,6670379925,doctor75@hospital.com,385,Active
+DOC0076,DEP002,Jagat,Kaur,Neurology,"MBBS, MS",11,2681964275,doctor76@hospital.com,1779,Active
+DOC0077,DEP007,Zilmil,Kapadia,Radiology,"MBBS, DM",3,0537453450,doctor77@hospital.com,1959,Active
+DOC0078,DEP003,Unni,Goswami,Orthopedics,"MBBS, MD",23,9696708349,doctor78@hospital.com,1064,Active
+DOC0079,DEP009,Abhiram,Kashyap,Oncology,"MBBS, MD",7,4764938682,doctor79@hospital.com,508,Active
+DOC0080,DEP010,Joshua,Doctor,General Medicine,"MBBS, DNB",15,8628751994,doctor80@hospital.com,1551,Active
+DOC0081,DEP001,Rohan,Prabhu,Cardiology,"MBBS, DNB",9,0902843453,doctor81@hospital.com,1634,Active
+DOC0082,DEP004,Chaman,Narula,Emergency,"MBBS, MS",1,2313838758,doctor82@hospital.com,1813,Active
+DOC0083,DEP002,Gaurangi,Sodhi,Neurology,"MBBS, DM",19,7702941372,doctor83@hospital.com,397,Active
+DOC0084,DEP001,Vrinda,Goswami,Cardiology,"MBBS, DM",25,2846445724,doctor84@hospital.com,1713,Active
+DOC0085,DEP002,Dipta,Parekh,Neurology,"MBBS, MS",24,2979633562,doctor85@hospital.com,1031,Active
+DOC0086,DEP007,Omaja,Yogi,Radiology,"MBBS, MD",21,4689022630,doctor86@hospital.com,1356,Active
+DOC0087,DEP003,Chavvi,Dash,Orthopedics,"MBBS, MS",5,8020136714,doctor87@hospital.com,1096,Active
+DOC0088,DEP009,Farhan,Mitter,Oncology,"MBBS, MS",10,0171522125,doctor88@hospital.com,1956,Active
+DOC0089,DEP001,Irya,Karan,Cardiology,"MBBS, MD",20,6553876850,doctor89@hospital.com,1259,Active
+DOC0090,DEP008,Isha,Karan,Laboratory,"MBBS, MD",29,0295605676,doctor90@hospital.com,734,Active
+DOC0091,DEP006,Chaitanya,Kurian,Pediatrics,"MBBS, MS",24,2026167677,doctor91@hospital.com,1175,Active
+DOC0092,DEP010,Ranbir,Kothari,General Medicine,"MBBS, DNB",5,0052622018,doctor92@hospital.com,525,Active
+DOC0093,DEP010,Aarnav,De,General Medicine,"MBBS, DM",3,2714227936,doctor93@hospital.com,1380,Active
+DOC0094,DEP005,Ranbir,Anne,ICU,"MBBS, MD",17,5662064907,doctor94@hospital.com,379,Active
+DOC0095,DEP007,Tanmayi,Gopal,Radiology,"MBBS, MD",2,8561943948,doctor95@hospital.com,1942,Active
+DOC0096,DEP005,Guneet,Kothari,ICU,"MBBS, DM",11,4409984810,doctor96@hospital.com,1590,Active
+DOC0097,DEP010,Yashasvi,Sandal,General Medicine,"MBBS, MD",11,8896136180,doctor97@hospital.com,1479,Active
+DOC0098,DEP005,Zansi,Kamdar,ICU,"MBBS, DM",29,7346458101,doctor98@hospital.com,1611,Active
+DOC0099,DEP009,Abha,Nigam,Oncology,"MBBS, DNB",23,0105999850,doctor99@hospital.com,745,Active
+DOC0100,DEP010,Lakshit,Vaidya,General Medicine,"MBBS, MS",7,1439758158,doctor100@hospital.com,663,Active

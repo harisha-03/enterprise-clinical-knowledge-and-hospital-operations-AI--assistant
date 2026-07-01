@@ -1,0 +1,3 @@
+export default function Skeleton({ className = '' }) {
+  return <div className={`animate-pulseSoft bg-white/5 rounded-md ${className}`} />
+}

@@ -1,0 +1,1001 @@
+medicine_id,medicine_name,generic_name,manufacturer,category,dosage_form,strength,unit_price,stock_quantity,reorder_level,expiry_date,status
+MED00001,Azithromycin,Diclofenac,Abbott,Painkiller,Drops,500 mg,682.25,107,35,2028-11-04,Available
+MED00002,Ondansetron,Levocetirizine,Pfizer,Antidiabetic,Syrup,500 mg,1067.89,840,68,2027-12-07,Available
+MED00003,Aspirin,Pantoprazole,Cipla,Vitamin,Syrup,5 ml,374.4,518,22,2027-02-10,Available
+MED00004,Montelukast,Atorvastatin,Abbott,Respiratory,Injection,250 mg,1131.51,200,49,2028-06-26,Available
+MED00005,Levocetirizine,Pantoprazole,Dr. Reddy's,Respiratory,Injection,650 mg,885.02,661,55,2026-07-11,Available
+MED00006,Rabeprazole,Pantoprazole,GSK,Painkiller,Drops,5 ml,313.77,950,93,2028-01-11,Available
+MED00007,Insulin,Ondansetron,Mankind,Cardiology,Injection,650 mg,840.34,336,56,2027-11-05,Available
+MED00008,Aspirin,Salbutamol,Mankind,Antibiotic,Injection,5 ml,1415.51,366,67,2028-02-01,Available
+MED00009,Ranitidine,Amoxicillin,Abbott,Antibiotic,Tablet,5 ml,532.27,807,30,2028-09-17,Available
+MED00010,ORS,Insulin,Dr. Reddy's,Painkiller,Tablet,250 mg,386.16,459,88,2027-03-23,Available
+MED00011,Amlodipine,Cefixime,Alkem,Antibiotic,Drops,100 mg,414.51,775,100,2028-09-24,Available
+MED00012,Cefixime,Levocetirizine,Lupin,Antacid,Syrup,500 mg,345.33,938,29,2029-06-10,Available
+MED00013,Pantoprazole,Insulin,Alkem,Antibiotic,Syrup,50 mg,463.09,343,24,2027-08-14,Available
+MED00014,Montelukast,Domperidone,Cipla,Antacid,Drops,100 mg,953.28,951,31,2026-09-11,Available
+MED00015,Omeprazole,Dolo 650,Torrent,Respiratory,Syrup,250 mg,873.09,806,30,2027-06-27,Available
+MED00016,Azithromycin,Domperidone,Dr. Reddy's,Cardiology,Drops,10 ml,1116.51,540,53,2029-02-24,Available
+MED00017,Calcium,Levocetirizine,Pfizer,Vitamin,Drops,100 mg,809.6,993,64,2026-12-30,Available
+MED00018,Pantoprazole,Levocetirizine,Alkem,Vitamin,Injection,250 mg,650.46,254,93,2028-03-29,Available
+MED00019,Montelukast,Dolo 650,Alkem,Antacid,Drops,650 mg,237.31,298,70,2028-12-23,Available
+MED00020,Ondansetron,Ranitidine,Sun Pharma,Antidiabetic,Drops,250 mg,92.23,821,99,2029-04-17,Available
+MED00021,Aspirin,ORS,Cipla,Vitamin,Capsule,100 mg,327.31,295,22,2028-10-17,Available
+MED00022,Metformin,Crocin,Alkem,Antidiabetic,Drops,250 mg,1162.5,884,29,2026-07-25,Available
+MED00023,Ibuprofen,Vitamin D3,Sun Pharma,General Medicine,Syrup,10 ml,853.43,1000,76,2027-04-07,Available
+MED00024,Iron Tablets,Ibuprofen,Mankind,Antidiabetic,Syrup,50 mg,1255.01,344,70,2027-01-27,Available
+MED00025,Vitamin D3,Ranitidine,Abbott,Vitamin,Syrup,5 ml,554.73,687,34,2028-10-08,Available
+MED00026,Amlodipine,Telmisartan,Abbott,General Medicine,Capsule,50 mg,706.24,923,24,2027-11-24,Available
+MED00027,Paracetamol,Ondansetron,Mankind,Antibiotic,Drops,10 ml,75.11,585,79,2029-05-09,Available
+MED00028,ORS,Calcium,Torrent,Cardiology,Injection,10 ml,523.07,689,35,2027-03-27,Available
+MED00029,Montelukast,Metformin,Lupin,Cardiology,Syrup,100 mg,1241.84,500,22,2026-10-14,Available
+MED00030,Domperidone,Paracetamol,Mankind,Antacid,Capsule,10 ml,727.83,731,29,2027-09-14,Available
+MED00031,Iron Tablets,Azithromycin,Mankind,Antibiotic,Drops,650 mg,1280.56,96,99,2027-05-15,Available
+MED00032,Azithromycin,Omeprazole,Pfizer,Vitamin,Syrup,50 mg,393.8,576,26,2027-05-13,Available
+MED00033,Vitamin D3,Ceftriaxone,Dr. Reddy's,General Medicine,Drops,50 mg,1499.88,315,58,2026-09-20,Available
+MED00034,Domperidone,Cetirizine,Sun Pharma,Cardiology,Tablet,500 mg,117.22,441,77,2028-07-24,Available
+MED00035,Montelukast,Vitamin D3,Lupin,Cardiology,Injection,5 ml,79.78,705,68,2027-03-15,Available
+MED00036,Vitamin D3,Amlodipine,Alkem,General Medicine,Injection,650 mg,293.48,382,79,2027-09-23,Available
+MED00037,Iron Tablets,Rabeprazole,Torrent,Vitamin,Drops,50 mg,475.64,377,70,2027-09-17,Available
+MED00038,Paracetamol,Omeprazole,Cipla,Respiratory,Capsule,500 mg,302.23,959,100,2027-01-01,Available
+MED00039,Ondansetron,Crocin,Torrent,Antidiabetic,Drops,250 mg,1108.64,503,87,2027-07-17,Available
+MED00040,Azithromycin,Metformin,Cipla,General Medicine,Syrup,500 mg,346.28,692,35,2026-08-12,Available
+MED00041,Iron Tablets,ORS,Mankind,Painkiller,Syrup,10 ml,1465.34,51,88,2027-10-23,Available
+MED00042,Rabeprazole,Insulin,Torrent,Antacid,Drops,50 mg,1411.24,742,25,2026-08-06,Available
+MED00043,Telmisartan,Amlodipine,GSK,Antidiabetic,Injection,100 mg,1428.74,435,77,2026-09-28,Available
+MED00044,Cetirizine,Iron Tablets,Sun Pharma,Antidiabetic,Drops,250 mg,1024.28,957,54,2028-10-01,Available
+MED00045,Cefixime,Cetirizine,Torrent,Cardiology,Tablet,650 mg,12.77,247,75,2027-03-05,Available
+MED00046,Azithromycin,Montelukast,Torrent,General Medicine,Syrup,500 mg,1406.25,595,23,2026-08-13,Available
+MED00047,Ceftriaxone,Amoxicillin,Sun Pharma,Respiratory,Tablet,250 mg,103.78,883,46,2027-12-30,Available
+MED00048,Azithromycin,Azithromycin,Torrent,General Medicine,Drops,500 mg,1400.11,313,60,2027-10-10,Available
+MED00049,Ranitidine,Metformin,GSK,Respiratory,Drops,250 mg,303.17,122,71,2027-10-20,Available
+MED00050,Domperidone,Azithromycin,Mankind,Antacid,Drops,5 ml,256.39,397,96,2027-08-31,Available
+MED00051,Crocin,Calcium,Abbott,Antidiabetic,Tablet,500 mg,686.21,796,29,2026-10-24,Available
+MED00052,Azithromycin,Atorvastatin,Cipla,Antidiabetic,Capsule,250 mg,1194.97,941,100,2027-03-09,Available
+MED00053,Ranitidine,Losartan,Sun Pharma,Painkiller,Capsule,100 mg,252.33,736,96,2028-07-15,Available
+MED00054,Amlodipine,Vitamin D3,Alkem,Antidiabetic,Capsule,500 mg,1346.27,987,54,2027-02-22,Available
+MED00055,Aspirin,Metformin,Dr. Reddy's,Vitamin,Injection,500 mg,116.72,128,81,2028-05-02,Available
+MED00056,Iron Tablets,Omeprazole,Torrent,Cardiology,Tablet,100 mg,820.96,515,99,2027-12-24,Available
+MED00057,Amlodipine,Losartan,GSK,Antidiabetic,Syrup,50 mg,1016.05,796,37,2028-01-30,Available
+MED00058,Domperidone,Dolo 650,Lupin,Respiratory,Injection,500 mg,63.21,97,97,2026-09-24,Available
+MED00059,Montelukast,Calcium,Mankind,Antacid,Drops,100 mg,669.52,812,60,2026-08-27,Available
+MED00060,Telmisartan,Amlodipine,Lupin,Painkiller,Syrup,5 ml,102.82,269,71,2027-05-17,Available
+MED00061,Iron Tablets,Aspirin,Mankind,Antibiotic,Tablet,250 mg,978.5,639,62,2028-04-24,Available
+MED00062,Montelukast,Metformin,Abbott,General Medicine,Capsule,250 mg,969.17,898,84,2029-01-27,Available
+MED00063,Ondansetron,Amoxicillin,Mankind,Antidiabetic,Tablet,500 mg,311.46,642,46,2027-08-06,Available
+MED00064,Ranitidine,Vitamin D3,Cipla,Antidiabetic,Capsule,50 mg,493.71,164,93,2029-06-01,Available
+MED00065,Diclofenac,Cefixime,Abbott,Antacid,Tablet,250 mg,1016.88,639,77,2026-12-31,Available
+MED00066,Levocetirizine,Calcium,GSK,Antacid,Syrup,50 mg,1336.6,587,55,2028-09-06,Available
+MED00067,Iron Tablets,Levocetirizine,GSK,Antibiotic,Syrup,5 ml,704.01,874,28,2027-02-01,Available
+MED00068,Insulin,Iron Tablets,Torrent,Respiratory,Tablet,500 mg,323.85,468,96,2028-10-31,Available
+MED00069,Ibuprofen,Insulin,Torrent,Respiratory,Drops,500 mg,1138.46,272,29,2029-05-29,Available
+MED00070,Ibuprofen,Losartan,Sun Pharma,Antacid,Capsule,10 ml,271.99,649,50,2026-09-08,Available
+MED00071,Ondansetron,Pantoprazole,Pfizer,Cardiology,Drops,650 mg,667.13,98,29,2027-09-13,Available
+MED00072,Dolo 650,Iron Tablets,Mankind,Antibiotic,Injection,10 ml,1372.59,122,62,2026-09-12,Available
+MED00073,Cetirizine,Cefixime,Torrent,Respiratory,Injection,650 mg,44.49,892,31,2028-01-19,Available
+MED00074,Calcium,Calcium,Cipla,Respiratory,Drops,650 mg,117.34,175,79,2028-03-31,Available
+MED00075,Pantoprazole,Insulin,Lupin,Painkiller,Syrup,250 mg,120.0,844,69,2028-09-23,Available
+MED00076,Insulin,Salbutamol,Mankind,Vitamin,Drops,50 mg,754.22,284,66,2027-11-01,Available
+MED00077,Cefixime,Salbutamol,Sun Pharma,Antidiabetic,Tablet,500 mg,665.94,76,24,2027-02-13,Available
+MED00078,Salbutamol,Amlodipine,Abbott,Antidiabetic,Injection,500 mg,1419.17,610,79,2026-07-29,Available
+MED00079,Paracetamol,Azithromycin,Lupin,Painkiller,Capsule,250 mg,883.45,580,100,2026-12-07,Available
+MED00080,Paracetamol,Crocin,GSK,Vitamin,Tablet,10 ml,1275.13,855,63,2029-04-21,Available
+MED00081,Pantoprazole,Telmisartan,Sun Pharma,Vitamin,Syrup,250 mg,576.7,270,85,2027-12-19,Available
+MED00082,Amoxicillin,Insulin,Pfizer,General Medicine,Tablet,650 mg,1104.64,498,58,2027-07-25,Available
+MED00083,Azithromycin,Metformin,Mankind,Vitamin,Injection,10 ml,640.03,470,66,2028-01-20,Available
+MED00084,Rabeprazole,Metformin,Mankind,Respiratory,Drops,50 mg,629.04,646,48,2027-09-02,Available
+MED00085,Aspirin,Diclofenac,Torrent,Painkiller,Syrup,5 ml,898.11,282,77,2028-05-30,Available
+MED00086,Vitamin D3,Omeprazole,Pfizer,General Medicine,Capsule,5 ml,922.07,660,85,2027-11-29,Available
+MED00087,Amoxicillin,Cefixime,Sun Pharma,General Medicine,Tablet,650 mg,718.21,609,23,2029-01-26,Available
+MED00088,Ibuprofen,Losartan,Abbott,Antibiotic,Syrup,50 mg,24.04,910,100,2028-08-01,Available
+MED00089,Paracetamol,Ondansetron,Alkem,Antidiabetic,Tablet,5 ml,1367.72,971,91,2028-12-08,Available
+MED00090,Omeprazole,Diclofenac,Alkem,General Medicine,Capsule,50 mg,1166.44,987,23,2029-05-26,Available
+MED00091,Ondansetron,Omeprazole,Cipla,Antacid,Injection,100 mg,899.52,683,21,2029-02-08,Available
+MED00092,Vitamin D3,Telmisartan,Pfizer,Cardiology,Injection,650 mg,348.87,712,32,2028-05-26,Available
+MED00093,Paracetamol,Iron Tablets,Dr. Reddy's,Antacid,Injection,650 mg,1354.29,392,83,2027-09-20,Available
+MED00094,Amoxicillin,Dolo 650,Sun Pharma,Painkiller,Tablet,500 mg,715.88,353,78,2029-02-06,Available
+MED00095,Losartan,Rabeprazole,Cipla,Antibiotic,Injection,5 ml,889.27,898,48,2029-04-19,Available
+MED00096,Salbutamol,Vitamin D3,Cipla,Antacid,Capsule,650 mg,190.08,498,51,2027-09-13,Available
+MED00097,Ceftriaxone,Rabeprazole,Lupin,Respiratory,Injection,50 mg,1322.58,307,88,2027-03-26,Available
+MED00098,Amoxicillin,Montelukast,Abbott,Antidiabetic,Injection,50 mg,530.84,306,53,2027-06-28,Available
+MED00099,Losartan,Azithromycin,Dr. Reddy's,Painkiller,Injection,250 mg,1309.92,391,81,2029-02-25,Available
+MED00100,Omeprazole,ORS,Abbott,Respiratory,Syrup,50 mg,1431.97,688,38,2029-06-15,Available
+MED00101,Omeprazole,Levocetirizine,Dr. Reddy's,Antacid,Capsule,10 ml,16.39,838,68,2026-10-07,Available
+MED00102,Domperidone,ORS,Sun Pharma,Cardiology,Drops,5 ml,1050.91,317,87,2028-06-24,Available
+MED00103,Calcium,Amoxicillin,Dr. Reddy's,Painkiller,Tablet,100 mg,671.99,726,78,2028-10-26,Available
+MED00104,Calcium,Salbutamol,Lupin,Cardiology,Capsule,10 ml,674.4,209,71,2027-10-06,Available
+MED00105,Ondansetron,Pantoprazole,Dr. Reddy's,Respiratory,Syrup,10 ml,47.01,285,52,2028-08-04,Available
+MED00106,Ranitidine,Crocin,Dr. Reddy's,Cardiology,Capsule,5 ml,477.0,792,80,2027-01-04,Available
+MED00107,Ondansetron,Crocin,Dr. Reddy's,Antibiotic,Syrup,10 ml,1426.9,379,65,2028-05-03,Available
+MED00108,Insulin,Paracetamol,Cipla,Antidiabetic,Capsule,250 mg,343.27,788,99,2026-07-27,Available
+MED00109,Telmisartan,Metformin,Abbott,Cardiology,Syrup,50 mg,276.01,959,33,2028-11-04,Available
+MED00110,Vitamin D3,Montelukast,Alkem,Antibiotic,Drops,100 mg,1257.46,774,45,2028-08-05,Available
+MED00111,Losartan,Amoxicillin,Torrent,General Medicine,Injection,500 mg,532.59,435,22,2029-04-15,Available
+MED00112,Omeprazole,ORS,Torrent,General Medicine,Syrup,5 ml,860.35,152,81,2029-04-11,Available
+MED00113,Amlodipine,Salbutamol,GSK,General Medicine,Tablet,250 mg,810.79,945,73,2026-11-07,Available
+MED00114,Insulin,Montelukast,GSK,Vitamin,Syrup,250 mg,416.2,439,46,2026-10-22,Available
+MED00115,Diclofenac,Atorvastatin,Torrent,Antidiabetic,Injection,100 mg,287.96,632,39,2027-01-16,Available
+MED00116,Omeprazole,Iron Tablets,Alkem,General Medicine,Tablet,250 mg,1244.52,150,53,2026-12-05,Available
+MED00117,Omeprazole,Ondansetron,Alkem,Antidiabetic,Capsule,50 mg,574.73,572,43,2028-09-27,Available
+MED00118,Vitamin D3,Atorvastatin,Torrent,Respiratory,Tablet,500 mg,1483.33,521,65,2029-06-01,Available
+MED00119,Crocin,Telmisartan,GSK,Antidiabetic,Capsule,50 mg,520.78,763,51,2029-03-30,Available
+MED00120,Amlodipine,Montelukast,Abbott,General Medicine,Tablet,250 mg,933.79,73,60,2027-02-14,Available
+MED00121,Calcium,Ceftriaxone,Sun Pharma,Cardiology,Injection,250 mg,426.69,200,57,2029-04-17,Available
+MED00122,Amoxicillin,Salbutamol,Cipla,Antibiotic,Injection,650 mg,1239.11,192,20,2027-07-20,Available
+MED00123,Dolo 650,Cefixime,Torrent,Antibiotic,Drops,500 mg,1337.84,608,75,2028-03-17,Available
+MED00124,Ceftriaxone,Amoxicillin,Sun Pharma,Cardiology,Tablet,650 mg,814.74,86,89,2029-03-24,Available
+MED00125,Dolo 650,Telmisartan,Abbott,Respiratory,Tablet,100 mg,720.96,470,46,2026-07-03,Available
+MED00126,Diclofenac,Crocin,GSK,Antacid,Injection,500 mg,1203.26,629,41,2028-02-25,Available
+MED00127,Metformin,Salbutamol,Cipla,Antidiabetic,Tablet,250 mg,1222.15,553,96,2029-01-03,Available
+MED00128,Pantoprazole,Azithromycin,Sun Pharma,Respiratory,Injection,100 mg,439.22,624,20,2028-04-25,Available
+MED00129,Calcium,Ibuprofen,GSK,Antidiabetic,Syrup,50 mg,285.83,980,94,2028-11-18,Available
+MED00130,Atorvastatin,Pantoprazole,Sun Pharma,Antibiotic,Capsule,5 ml,1062.12,357,24,2028-07-11,Available
+MED00131,Metformin,Montelukast,Lupin,General Medicine,Tablet,500 mg,1017.13,307,81,2027-03-29,Available
+MED00132,Losartan,Diclofenac,Abbott,Cardiology,Injection,500 mg,16.51,513,80,2026-09-01,Available
+MED00133,Diclofenac,Vitamin D3,Alkem,Antidiabetic,Injection,100 mg,412.11,977,55,2027-10-16,Available
+MED00134,Telmisartan,Salbutamol,Sun Pharma,Antacid,Tablet,5 ml,1372.09,770,39,2026-08-11,Available
+MED00135,Ranitidine,Losartan,Pfizer,Antidiabetic,Injection,250 mg,1425.95,740,30,2027-04-09,Available
+MED00136,Cetirizine,Domperidone,Dr. Reddy's,Antacid,Injection,50 mg,875.27,767,63,2029-05-06,Available
+MED00137,Levocetirizine,Diclofenac,Pfizer,Antibiotic,Injection,10 ml,1013.88,777,75,2027-12-11,Available
+MED00138,Vitamin D3,Insulin,Dr. Reddy's,Respiratory,Capsule,650 mg,1409.36,353,86,2028-01-01,Available
+MED00139,Rabeprazole,Amoxicillin,Pfizer,Antidiabetic,Injection,100 mg,383.93,968,37,2028-04-04,Available
+MED00140,Levocetirizine,Ibuprofen,Lupin,Antibiotic,Syrup,10 ml,1235.97,993,48,2029-01-22,Available
+MED00141,Ibuprofen,Ibuprofen,Cipla,Vitamin,Tablet,250 mg,727.13,873,56,2026-07-07,Available
+MED00142,Ranitidine,Cetirizine,GSK,Antidiabetic,Capsule,100 mg,1063.26,494,58,2028-01-25,Available
+MED00143,Amoxicillin,Amlodipine,Lupin,Antidiabetic,Syrup,500 mg,1164.04,139,98,2028-10-27,Available
+MED00144,Calcium,Losartan,Cipla,General Medicine,Syrup,250 mg,114.63,887,71,2027-11-22,Available
+MED00145,Paracetamol,Ceftriaxone,Mankind,Antacid,Syrup,500 mg,814.87,308,88,2027-11-01,Available
+MED00146,Telmisartan,Vitamin D3,GSK,Respiratory,Syrup,650 mg,1214.2,591,75,2027-06-12,Available
+MED00147,Cetirizine,Calcium,Torrent,Antidiabetic,Capsule,50 mg,1354.15,209,72,2027-07-10,Available
+MED00148,Cefixime,Cefixime,Lupin,Antidiabetic,Drops,500 mg,738.48,92,76,2028-10-03,Available
+MED00149,Amoxicillin,Levocetirizine,Abbott,Respiratory,Capsule,100 mg,1252.54,82,75,2026-08-03,Available
+MED00150,Amoxicillin,Levocetirizine,Torrent,Antidiabetic,Tablet,500 mg,1441.25,760,99,2029-04-29,Available
+MED00151,Metformin,Rabeprazole,Alkem,Painkiller,Capsule,10 ml,113.75,966,42,2026-07-18,Available
+MED00152,Azithromycin,Ondansetron,Torrent,General Medicine,Injection,650 mg,682.04,826,70,2029-04-14,Available
+MED00153,Ondansetron,Crocin,Alkem,Cardiology,Drops,50 mg,1463.42,117,53,2028-06-14,Available
+MED00154,Calcium,Ondansetron,Mankind,General Medicine,Syrup,10 ml,777.13,444,25,2027-11-06,Available
+MED00155,Cefixime,Paracetamol,Lupin,Respiratory,Injection,10 ml,1322.08,733,81,2028-04-10,Available
+MED00156,Ranitidine,Losartan,Cipla,Antibiotic,Drops,500 mg,793.24,516,27,2027-07-04,Available
+MED00157,Calcium,Paracetamol,Lupin,Antibiotic,Capsule,10 ml,1174.77,63,74,2029-03-19,Available
+MED00158,Vitamin D3,Telmisartan,Abbott,Cardiology,Capsule,100 mg,935.41,138,45,2029-01-07,Available
+MED00159,Vitamin D3,Levocetirizine,Cipla,General Medicine,Capsule,10 ml,150.69,938,72,2029-01-21,Available
+MED00160,Calcium,Rabeprazole,GSK,Cardiology,Tablet,10 ml,1311.84,883,76,2028-04-05,Available
+MED00161,Pantoprazole,Domperidone,Mankind,Respiratory,Capsule,5 ml,1307.48,770,47,2028-05-04,Available
+MED00162,Paracetamol,Montelukast,Mankind,Antidiabetic,Injection,50 mg,457.76,677,85,2029-06-16,Available
+MED00163,Montelukast,Aspirin,Mankind,Antacid,Injection,100 mg,1069.3,859,77,2028-04-02,Available
+MED00164,Salbutamol,Diclofenac,Abbott,Antacid,Drops,100 mg,88.72,953,78,2028-03-07,Available
+MED00165,Azithromycin,Domperidone,Dr. Reddy's,Antibiotic,Capsule,100 mg,669.03,707,78,2028-01-20,Available
+MED00166,ORS,Omeprazole,Lupin,General Medicine,Tablet,5 ml,33.86,582,94,2026-08-23,Available
+MED00167,Levocetirizine,Telmisartan,Pfizer,Antibiotic,Capsule,650 mg,1346.58,917,82,2027-03-14,Available
+MED00168,Atorvastatin,Levocetirizine,Torrent,Painkiller,Capsule,650 mg,1040.34,50,36,2026-11-05,Available
+MED00169,Diclofenac,Azithromycin,Sun Pharma,General Medicine,Injection,250 mg,1321.14,707,64,2028-05-30,Available
+MED00170,Levocetirizine,Amlodipine,Abbott,Respiratory,Syrup,650 mg,285.13,639,40,2027-06-20,Available
+MED00171,Cefixime,Calcium,Cipla,Antibiotic,Injection,100 mg,1218.47,990,32,2029-05-04,Available
+MED00172,Ibuprofen,Calcium,GSK,Painkiller,Capsule,500 mg,993.88,58,88,2027-02-27,Available
+MED00173,Diclofenac,Calcium,Dr. Reddy's,Antidiabetic,Drops,500 mg,1095.8,601,24,2028-07-12,Available
+MED00174,Aspirin,Cetirizine,Torrent,General Medicine,Tablet,5 ml,333.79,837,100,2027-01-02,Available
+MED00175,Montelukast,Ibuprofen,Pfizer,Respiratory,Syrup,650 mg,913.51,743,22,2027-06-09,Available
+MED00176,Amlodipine,Insulin,GSK,Vitamin,Tablet,5 ml,1149.29,700,46,2028-07-29,Available
+MED00177,Omeprazole,Aspirin,Cipla,General Medicine,Syrup,10 ml,1213.27,957,99,2028-06-16,Available
+MED00178,Metformin,Ibuprofen,Torrent,Antibiotic,Capsule,500 mg,1120.97,432,80,2028-06-24,Available
+MED00179,Calcium,Calcium,Alkem,Vitamin,Drops,250 mg,1287.91,436,77,2029-06-26,Available
+MED00180,Cetirizine,Aspirin,Torrent,General Medicine,Capsule,250 mg,944.58,728,37,2028-02-03,Available
+MED00181,Ibuprofen,Amoxicillin,Dr. Reddy's,Antacid,Injection,250 mg,884.46,914,41,2027-12-23,Available
+MED00182,Ranitidine,Montelukast,Lupin,Respiratory,Syrup,500 mg,765.16,471,45,2029-03-02,Available
+MED00183,Ranitidine,Insulin,Lupin,General Medicine,Capsule,500 mg,1133.58,666,89,2028-04-29,Available
+MED00184,Domperidone,Cetirizine,Alkem,Respiratory,Injection,650 mg,1272.34,153,94,2029-05-10,Available
+MED00185,Domperidone,Diclofenac,Cipla,Respiratory,Drops,5 ml,511.93,645,78,2027-11-14,Available
+MED00186,Ibuprofen,Atorvastatin,Pfizer,Antidiabetic,Drops,500 mg,686.9,113,49,2028-12-19,Available
+MED00187,Insulin,ORS,Mankind,Painkiller,Tablet,5 ml,843.72,198,62,2028-09-11,Available
+MED00188,Omeprazole,Omeprazole,Lupin,General Medicine,Tablet,500 mg,439.01,359,41,2027-03-21,Available
+MED00189,Montelukast,Pantoprazole,Mankind,Painkiller,Drops,100 mg,494.59,116,81,2027-02-04,Available
+MED00190,Montelukast,Amlodipine,Dr. Reddy's,Cardiology,Injection,250 mg,1488.2,778,65,2027-01-06,Available
+MED00191,Ondansetron,Levocetirizine,Torrent,Vitamin,Capsule,100 mg,473.26,524,98,2028-09-24,Available
+MED00192,Amlodipine,Omeprazole,Pfizer,Antacid,Capsule,250 mg,315.99,410,70,2027-12-21,Available
+MED00193,Dolo 650,Rabeprazole,Sun Pharma,Antibiotic,Drops,100 mg,539.32,934,58,2027-12-26,Available
+MED00194,Dolo 650,Atorvastatin,GSK,Antibiotic,Capsule,250 mg,1020.74,607,22,2027-05-13,Available
+MED00195,Salbutamol,Calcium,Lupin,General Medicine,Injection,250 mg,1478.31,803,79,2027-03-05,Available
+MED00196,Paracetamol,Ranitidine,Pfizer,Antibiotic,Drops,650 mg,291.68,68,82,2026-12-10,Available
+MED00197,Cetirizine,Domperidone,Mankind,General Medicine,Capsule,50 mg,1239.86,363,68,2026-10-16,Available
+MED00198,Amoxicillin,Aspirin,Alkem,Antibiotic,Capsule,10 ml,623.88,892,24,2026-12-09,Available
+MED00199,Atorvastatin,Amoxicillin,Torrent,Antibiotic,Injection,5 ml,698.55,663,51,2028-05-24,Available
+MED00200,Ibuprofen,Levocetirizine,Mankind,Painkiller,Tablet,10 ml,75.1,828,59,2027-12-04,Available
+MED00201,Ondansetron,Amlodipine,Torrent,Cardiology,Syrup,10 ml,308.25,409,69,2028-11-29,Available
+MED00202,Telmisartan,Ceftriaxone,Mankind,General Medicine,Tablet,100 mg,903.03,362,79,2029-06-15,Available
+MED00203,Metformin,Ondansetron,Lupin,Painkiller,Syrup,650 mg,567.43,415,91,2028-09-26,Available
+MED00204,Montelukast,Salbutamol,Mankind,Vitamin,Capsule,100 mg,519.49,89,72,2027-06-01,Available
+MED00205,Insulin,Amoxicillin,Torrent,Cardiology,Drops,5 ml,1389.16,171,71,2027-01-14,Available
+MED00206,Levocetirizine,Omeprazole,Abbott,Cardiology,Syrup,650 mg,533.2,705,69,2028-08-03,Available
+MED00207,Metformin,Pantoprazole,Alkem,General Medicine,Syrup,5 ml,199.88,687,92,2027-04-28,Available
+MED00208,Metformin,Ranitidine,Cipla,Vitamin,Capsule,500 mg,1116.31,755,41,2027-01-13,Available
+MED00209,Omeprazole,Pantoprazole,Sun Pharma,Antibiotic,Tablet,5 ml,702.84,553,67,2028-05-29,Available
+MED00210,Ondansetron,Diclofenac,Lupin,Cardiology,Tablet,500 mg,982.76,421,23,2026-11-05,Available
+MED00211,Paracetamol,Pantoprazole,Pfizer,Vitamin,Tablet,5 ml,943.03,562,85,2027-09-17,Available
+MED00212,Ceftriaxone,Pantoprazole,Cipla,General Medicine,Tablet,100 mg,322.23,361,70,2028-09-27,Available
+MED00213,Omeprazole,ORS,Torrent,Respiratory,Syrup,650 mg,1384.42,173,98,2026-12-11,Available
+MED00214,Paracetamol,Omeprazole,Pfizer,General Medicine,Injection,50 mg,100.28,816,33,2027-01-24,Available
+MED00215,Omeprazole,Insulin,Dr. Reddy's,Vitamin,Drops,50 mg,846.64,308,26,2027-01-15,Available
+MED00216,Calcium,Ondansetron,Torrent,Vitamin,Capsule,50 mg,269.02,410,31,2028-08-19,Available
+MED00217,Ceftriaxone,Calcium,Pfizer,Painkiller,Capsule,650 mg,800.4,345,38,2027-12-19,Available
+MED00218,Aspirin,Ceftriaxone,Sun Pharma,General Medicine,Drops,10 ml,1213.7,564,26,2029-03-15,Available
+MED00219,Ondansetron,ORS,Sun Pharma,Respiratory,Syrup,50 mg,224.68,714,70,2027-05-13,Available
+MED00220,Salbutamol,Calcium,Sun Pharma,General Medicine,Drops,650 mg,66.97,230,67,2028-05-26,Available
+MED00221,Cetirizine,Salbutamol,GSK,Vitamin,Drops,100 mg,624.9,703,53,2029-01-13,Available
+MED00222,ORS,Cefixime,Alkem,Antacid,Injection,100 mg,245.48,85,68,2026-08-10,Available
+MED00223,Aspirin,Montelukast,Torrent,Antibiotic,Syrup,250 mg,312.02,712,79,2026-07-25,Available
+MED00224,Rabeprazole,Diclofenac,Lupin,Antibiotic,Capsule,10 ml,643.22,927,29,2026-11-11,Available
+MED00225,Metformin,Rabeprazole,Cipla,Antibiotic,Injection,5 ml,34.87,242,44,2027-07-26,Available
+MED00226,Losartan,Dolo 650,Torrent,Respiratory,Capsule,650 mg,1310.61,486,25,2026-11-24,Available
+MED00227,Levocetirizine,Montelukast,Alkem,General Medicine,Capsule,5 ml,508.21,865,79,2026-10-25,Available
+MED00228,Aspirin,Losartan,Pfizer,Antibiotic,Capsule,50 mg,1246.05,938,26,2026-12-03,Available
+MED00229,Paracetamol,Vitamin D3,Abbott,Antacid,Syrup,250 mg,425.44,314,95,2029-05-18,Available
+MED00230,Domperidone,Omeprazole,Torrent,Cardiology,Capsule,250 mg,631.42,377,97,2029-02-25,Available
+MED00231,Paracetamol,Rabeprazole,Pfizer,Respiratory,Syrup,500 mg,953.28,165,86,2029-02-12,Available
+MED00232,Domperidone,Cetirizine,Cipla,Painkiller,Capsule,250 mg,359.12,85,76,2026-11-23,Available
+MED00233,Insulin,Metformin,Sun Pharma,Antidiabetic,Capsule,650 mg,11.33,411,30,2026-09-17,Available
+MED00234,Atorvastatin,Vitamin D3,Pfizer,Cardiology,Drops,100 mg,345.29,253,57,2026-10-20,Available
+MED00235,Domperidone,Amoxicillin,Alkem,Respiratory,Injection,100 mg,869.52,229,78,2029-03-16,Available
+MED00236,Vitamin D3,Cefixime,Sun Pharma,Painkiller,Tablet,10 ml,1365.4,358,69,2029-02-28,Available
+MED00237,Telmisartan,Calcium,Dr. Reddy's,Antibiotic,Syrup,10 ml,91.04,375,20,2029-02-07,Available
+MED00238,Amlodipine,Azithromycin,Abbott,Respiratory,Drops,5 ml,1020.0,825,22,2027-03-15,Available
+MED00239,Calcium,Rabeprazole,Alkem,Antacid,Injection,10 ml,697.16,196,43,2027-01-16,Available
+MED00240,Ceftriaxone,Montelukast,Sun Pharma,Antacid,Capsule,10 ml,113.2,490,27,2028-12-24,Available
+MED00241,Amoxicillin,Atorvastatin,Lupin,Cardiology,Drops,100 mg,550.28,473,36,2026-09-09,Available
+MED00242,Aspirin,Atorvastatin,Cipla,Cardiology,Syrup,50 mg,1161.76,69,49,2027-06-03,Available
+MED00243,Telmisartan,Atorvastatin,Sun Pharma,Respiratory,Drops,250 mg,27.89,768,72,2028-07-17,Available
+MED00244,Calcium,Calcium,Alkem,Antacid,Drops,650 mg,387.14,249,39,2027-12-01,Available
+MED00245,Iron Tablets,Pantoprazole,GSK,Antacid,Drops,5 ml,611.13,819,53,2029-03-22,Available
+MED00246,Dolo 650,Losartan,Sun Pharma,Antidiabetic,Drops,50 mg,1309.5,971,34,2029-05-30,Available
+MED00247,Domperidone,Pantoprazole,Alkem,Antibiotic,Capsule,250 mg,404.34,472,85,2027-06-13,Available
+MED00248,Metformin,Ceftriaxone,Torrent,Antidiabetic,Injection,50 mg,314.98,516,60,2027-05-29,Available
+MED00249,Salbutamol,ORS,Torrent,Cardiology,Capsule,650 mg,1067.53,705,41,2026-09-23,Available
+MED00250,Calcium,Omeprazole,Pfizer,Painkiller,Injection,500 mg,854.89,136,31,2027-01-24,Available
+MED00251,Atorvastatin,Cefixime,Pfizer,Antibiotic,Capsule,50 mg,279.7,102,51,2028-03-12,Available
+MED00252,Montelukast,Amlodipine,Lupin,Antacid,Drops,250 mg,218.17,351,73,2028-06-01,Available
+MED00253,Diclofenac,Crocin,Torrent,Painkiller,Syrup,250 mg,1402.28,456,32,2027-05-20,Available
+MED00254,Aspirin,Telmisartan,Sun Pharma,Antibiotic,Drops,250 mg,930.34,751,74,2026-07-18,Available
+MED00255,Dolo 650,Domperidone,Lupin,Vitamin,Drops,50 mg,604.17,992,43,2028-12-15,Available
+MED00256,Salbutamol,Ibuprofen,GSK,Antibiotic,Tablet,100 mg,1148.56,623,82,2027-04-24,Available
+MED00257,Paracetamol,Paracetamol,GSK,Antidiabetic,Syrup,250 mg,283.24,745,96,2028-01-08,Available
+MED00258,Calcium,Diclofenac,GSK,Cardiology,Injection,500 mg,778.75,521,52,2028-05-17,Available
+MED00259,Ibuprofen,Domperidone,Dr. Reddy's,Antacid,Injection,50 mg,591.2,238,93,2029-04-29,Available
+MED00260,Calcium,Levocetirizine,Lupin,Cardiology,Syrup,50 mg,521.37,977,92,2027-07-03,Available
+MED00261,Montelukast,Amlodipine,Abbott,General Medicine,Tablet,500 mg,240.22,925,91,2027-12-30,Available
+MED00262,Cefixime,Ondansetron,Torrent,Antibiotic,Drops,50 mg,1225.79,552,63,2027-03-28,Available
+MED00263,Calcium,Montelukast,GSK,Painkiller,Injection,500 mg,1256.82,56,68,2027-07-29,Available
+MED00264,ORS,Vitamin D3,Lupin,Antacid,Drops,650 mg,1480.79,109,73,2028-09-23,Available
+MED00265,Omeprazole,Pantoprazole,Dr. Reddy's,Vitamin,Tablet,10 ml,225.07,731,38,2027-09-25,Available
+MED00266,Ranitidine,Amoxicillin,Lupin,Respiratory,Injection,10 ml,501.24,81,47,2028-09-12,Available
+MED00267,Vitamin D3,Ondansetron,Lupin,Vitamin,Tablet,50 mg,634.96,736,34,2028-10-02,Available
+MED00268,Dolo 650,Domperidone,GSK,Cardiology,Injection,5 ml,1021.28,258,64,2029-06-23,Available
+MED00269,Amoxicillin,Diclofenac,Sun Pharma,Antibiotic,Tablet,10 ml,972.73,438,78,2027-03-25,Available
+MED00270,Paracetamol,Rabeprazole,Torrent,Vitamin,Drops,50 mg,1279.46,59,39,2027-01-21,Available
+MED00271,Cefixime,Cefixime,Cipla,Antidiabetic,Syrup,10 ml,1487.5,728,40,2026-07-27,Available
+MED00272,Ceftriaxone,Salbutamol,Pfizer,Cardiology,Syrup,500 mg,1437.88,614,87,2027-05-18,Available
+MED00273,Calcium,Ceftriaxone,Cipla,Antidiabetic,Tablet,500 mg,357.97,528,80,2027-03-05,Available
+MED00274,Cefixime,Vitamin D3,Mankind,Vitamin,Capsule,5 ml,803.4,777,33,2027-06-21,Available
+MED00275,ORS,Omeprazole,Cipla,Antidiabetic,Capsule,10 ml,905.87,571,100,2029-03-20,Available
+MED00276,Ibuprofen,Rabeprazole,Lupin,General Medicine,Capsule,250 mg,1021.92,651,39,2027-09-29,Available
+MED00277,Telmisartan,Domperidone,Cipla,Antibiotic,Drops,250 mg,687.41,953,76,2028-10-25,Available
+MED00278,Ondansetron,Atorvastatin,Sun Pharma,Respiratory,Syrup,5 ml,1396.35,366,55,2027-04-01,Available
+MED00279,Crocin,Montelukast,Alkem,Cardiology,Tablet,100 mg,1049.05,572,88,2026-08-26,Available
+MED00280,Cefixime,Amlodipine,Lupin,Vitamin,Tablet,10 ml,444.29,364,74,2027-09-02,Available
+MED00281,Cetirizine,Crocin,Pfizer,Antacid,Tablet,100 mg,575.91,568,54,2026-10-26,Available
+MED00282,Vitamin D3,Azithromycin,Alkem,Painkiller,Tablet,250 mg,107.08,369,69,2026-07-06,Available
+MED00283,ORS,Paracetamol,Sun Pharma,Vitamin,Drops,50 mg,247.63,438,90,2029-05-25,Available
+MED00284,Losartan,Dolo 650,GSK,Painkiller,Capsule,650 mg,865.97,200,24,2028-07-17,Available
+MED00285,Pantoprazole,Pantoprazole,Alkem,Antibiotic,Capsule,50 mg,107.38,306,83,2028-11-28,Available
+MED00286,Amlodipine,Omeprazole,Alkem,Antidiabetic,Capsule,650 mg,60.83,195,64,2026-11-07,Available
+MED00287,Dolo 650,Ondansetron,Lupin,Antacid,Capsule,100 mg,888.68,965,51,2027-11-13,Available
+MED00288,Amoxicillin,Vitamin D3,Abbott,Painkiller,Drops,250 mg,256.83,724,77,2029-01-24,Available
+MED00289,Ibuprofen,Cefixime,Mankind,Antacid,Syrup,50 mg,398.24,68,80,2028-12-13,Available
+MED00290,Domperidone,Ceftriaxone,Dr. Reddy's,General Medicine,Capsule,5 ml,44.74,563,42,2028-10-16,Available
+MED00291,Amlodipine,Crocin,Lupin,Antacid,Drops,650 mg,165.48,1000,82,2027-04-14,Available
+MED00292,Levocetirizine,Azithromycin,Mankind,Cardiology,Capsule,100 mg,453.87,768,63,2027-09-21,Available
+MED00293,Paracetamol,Domperidone,Lupin,Antacid,Tablet,500 mg,370.11,822,79,2027-01-10,Available
+MED00294,Cefixime,Telmisartan,GSK,Respiratory,Syrup,500 mg,374.28,219,99,2027-01-08,Available
+MED00295,Atorvastatin,Iron Tablets,Dr. Reddy's,Antidiabetic,Capsule,500 mg,762.7,867,90,2027-02-13,Available
+MED00296,Ibuprofen,Rabeprazole,Lupin,Vitamin,Tablet,10 ml,777.4,103,54,2029-04-04,Available
+MED00297,Aspirin,Ibuprofen,Lupin,Respiratory,Capsule,650 mg,945.44,486,70,2028-12-26,Available
+MED00298,Atorvastatin,Azithromycin,Cipla,Antibiotic,Drops,10 ml,798.03,317,58,2027-03-26,Available
+MED00299,Dolo 650,Cefixime,Mankind,Antibiotic,Tablet,500 mg,1344.57,246,75,2027-09-24,Available
+MED00300,Dolo 650,Montelukast,Dr. Reddy's,Painkiller,Drops,100 mg,274.49,825,41,2029-05-27,Available
+MED00301,Telmisartan,Iron Tablets,Pfizer,Antacid,Tablet,250 mg,1166.34,967,53,2028-05-20,Available
+MED00302,Ceftriaxone,Iron Tablets,Cipla,Cardiology,Tablet,250 mg,817.05,89,57,2026-10-24,Available
+MED00303,Cefixime,Levocetirizine,Mankind,Vitamin,Drops,50 mg,530.41,592,71,2029-04-27,Available
+MED00304,Losartan,Metformin,Abbott,General Medicine,Tablet,50 mg,1155.09,628,60,2028-03-09,Available
+MED00305,Ranitidine,Atorvastatin,Alkem,Cardiology,Syrup,500 mg,783.24,884,56,2028-05-20,Available
+MED00306,Cetirizine,Pantoprazole,Mankind,Painkiller,Tablet,10 ml,931.09,470,29,2029-04-28,Available
+MED00307,Domperidone,Diclofenac,Mankind,Cardiology,Tablet,10 ml,727.89,721,70,2028-06-12,Available
+MED00308,Paracetamol,Calcium,Mankind,Painkiller,Tablet,250 mg,725.59,953,22,2028-06-21,Available
+MED00309,Diclofenac,Cetirizine,Cipla,Painkiller,Capsule,50 mg,1028.58,633,85,2027-12-27,Available
+MED00310,Paracetamol,Salbutamol,Alkem,Vitamin,Syrup,10 ml,975.11,734,63,2029-03-08,Available
+MED00311,Pantoprazole,Domperidone,Cipla,Painkiller,Injection,250 mg,421.46,168,36,2027-12-19,Available
+MED00312,Salbutamol,Levocetirizine,Cipla,Antibiotic,Syrup,650 mg,731.48,871,82,2028-08-09,Available
+MED00313,Azithromycin,Aspirin,GSK,Painkiller,Tablet,5 ml,739.31,396,78,2028-06-10,Available
+MED00314,Insulin,Crocin,Alkem,Respiratory,Syrup,500 mg,366.4,778,28,2028-08-25,Available
+MED00315,Diclofenac,Cefixime,Sun Pharma,Antacid,Injection,5 ml,29.49,72,92,2028-07-08,Available
+MED00316,Amoxicillin,Ceftriaxone,Abbott,Respiratory,Capsule,100 mg,153.82,576,95,2026-08-14,Available
+MED00317,Levocetirizine,Dolo 650,Torrent,Painkiller,Syrup,5 ml,947.41,533,90,2027-08-27,Available
+MED00318,Ondansetron,Ibuprofen,Cipla,Cardiology,Syrup,650 mg,258.91,979,53,2028-09-01,Available
+MED00319,Calcium,Iron Tablets,Mankind,Antidiabetic,Capsule,10 ml,1460.83,121,73,2029-03-22,Available
+MED00320,Ranitidine,ORS,Alkem,Cardiology,Syrup,250 mg,122.06,518,84,2027-11-13,Available
+MED00321,Insulin,Ibuprofen,Pfizer,Painkiller,Tablet,650 mg,547.41,318,42,2029-01-23,Available
+MED00322,Calcium,Ranitidine,Sun Pharma,Cardiology,Capsule,10 ml,675.56,709,53,2028-08-18,Available
+MED00323,Aspirin,Vitamin D3,Pfizer,Antacid,Capsule,650 mg,1189.59,388,24,2028-03-02,Available
+MED00324,Levocetirizine,Metformin,Torrent,Antidiabetic,Tablet,50 mg,609.95,552,58,2027-04-20,Available
+MED00325,Iron Tablets,Iron Tablets,GSK,Painkiller,Syrup,5 ml,950.62,878,27,2028-09-29,Available
+MED00326,Paracetamol,Azithromycin,Lupin,Respiratory,Tablet,10 ml,76.12,983,25,2028-08-03,Available
+MED00327,Ceftriaxone,Domperidone,GSK,Antacid,Tablet,10 ml,51.69,798,59,2029-03-01,Available
+MED00328,Amlodipine,Ibuprofen,Torrent,Antacid,Injection,250 mg,255.22,839,91,2026-11-08,Available
+MED00329,Domperidone,Azithromycin,Abbott,Vitamin,Tablet,100 mg,741.91,120,82,2027-01-19,Available
+MED00330,Metformin,Crocin,Mankind,Antacid,Syrup,100 mg,1496.7,961,77,2026-12-09,Available
+MED00331,Montelukast,Levocetirizine,Alkem,General Medicine,Syrup,650 mg,180.6,769,78,2026-11-28,Available
+MED00332,Montelukast,Ceftriaxone,Sun Pharma,General Medicine,Injection,250 mg,496.8,255,65,2028-10-02,Available
+MED00333,Atorvastatin,Pantoprazole,Pfizer,Respiratory,Drops,50 mg,872.38,264,35,2026-09-02,Available
+MED00334,Ceftriaxone,Vitamin D3,Abbott,Antibiotic,Drops,10 ml,616.87,396,97,2029-05-06,Available
+MED00335,Aspirin,Ondansetron,Pfizer,Antibiotic,Injection,500 mg,740.13,699,35,2027-11-10,Available
+MED00336,Insulin,Crocin,Lupin,Vitamin,Syrup,10 ml,1041.67,528,46,2027-04-01,Available
+MED00337,Cetirizine,Calcium,Mankind,Respiratory,Injection,10 ml,352.09,627,44,2028-05-23,Available
+MED00338,Cetirizine,Pantoprazole,Pfizer,Antidiabetic,Capsule,50 mg,628.83,362,74,2027-08-05,Available
+MED00339,Losartan,Diclofenac,Abbott,Vitamin,Capsule,650 mg,1378.56,540,38,2027-12-12,Available
+MED00340,Amlodipine,Losartan,Alkem,General Medicine,Syrup,5 ml,1323.27,856,95,2027-08-22,Available
+MED00341,Amoxicillin,Diclofenac,Alkem,Antibiotic,Syrup,100 mg,580.59,634,62,2027-09-12,Available
+MED00342,Ceftriaxone,Calcium,Dr. Reddy's,Cardiology,Tablet,5 ml,128.34,324,54,2026-09-20,Available
+MED00343,Iron Tablets,Crocin,Alkem,Antidiabetic,Drops,250 mg,1414.63,389,27,2027-11-10,Available
+MED00344,Salbutamol,Salbutamol,Dr. Reddy's,Antacid,Capsule,650 mg,1263.23,56,87,2026-10-01,Available
+MED00345,Iron Tablets,Crocin,Cipla,Painkiller,Drops,50 mg,127.0,113,47,2028-09-11,Available
+MED00346,Cetirizine,Omeprazole,Abbott,Antidiabetic,Injection,650 mg,365.9,948,25,2028-03-16,Available
+MED00347,Calcium,Ceftriaxone,Lupin,Respiratory,Capsule,10 ml,773.98,890,95,2028-07-01,Available
+MED00348,Atorvastatin,Montelukast,Dr. Reddy's,Antibiotic,Syrup,10 ml,1353.72,260,85,2028-08-04,Available
+MED00349,ORS,Telmisartan,Pfizer,Painkiller,Injection,650 mg,1427.47,982,38,2029-04-24,Available
+MED00350,Vitamin D3,Paracetamol,Abbott,Vitamin,Injection,50 mg,1340.95,658,21,2027-12-25,Available
+MED00351,Atorvastatin,Dolo 650,Pfizer,Painkiller,Tablet,250 mg,1148.84,698,96,2027-01-31,Available
+MED00352,Paracetamol,Ranitidine,Torrent,Painkiller,Injection,100 mg,1022.26,837,72,2028-02-10,Available
+MED00353,Calcium,Amoxicillin,Pfizer,Vitamin,Capsule,10 ml,921.89,706,24,2026-12-09,Available
+MED00354,Losartan,Cetirizine,Dr. Reddy's,Painkiller,Syrup,650 mg,1253.84,647,87,2029-01-22,Available
+MED00355,Aspirin,Paracetamol,Sun Pharma,Respiratory,Tablet,250 mg,337.43,676,24,2028-02-06,Available
+MED00356,Aspirin,Crocin,Alkem,Vitamin,Tablet,10 ml,1377.78,483,44,2027-09-17,Available
+MED00357,Levocetirizine,Insulin,Cipla,Respiratory,Drops,5 ml,442.49,523,78,2029-03-31,Available
+MED00358,Calcium,Iron Tablets,Mankind,Painkiller,Capsule,50 mg,1324.77,634,25,2028-10-23,Available
+MED00359,Vitamin D3,Amlodipine,Torrent,General Medicine,Tablet,5 ml,940.78,140,25,2026-09-18,Available
+MED00360,Paracetamol,Iron Tablets,Dr. Reddy's,Vitamin,Syrup,650 mg,775.78,677,84,2029-05-29,Available
+MED00361,Iron Tablets,Omeprazole,Cipla,Respiratory,Syrup,500 mg,1317.94,796,26,2027-08-16,Available
+MED00362,Salbutamol,Pantoprazole,Lupin,Antacid,Injection,5 ml,13.69,620,61,2027-11-15,Available
+MED00363,Iron Tablets,Metformin,Cipla,Antidiabetic,Syrup,50 mg,225.57,280,80,2027-10-26,Available
+MED00364,Losartan,Ondansetron,Cipla,Antidiabetic,Syrup,10 ml,1386.96,715,61,2026-08-23,Available
+MED00365,ORS,Azithromycin,Torrent,Antidiabetic,Injection,100 mg,977.3,920,88,2029-06-04,Available
+MED00366,Losartan,Losartan,Torrent,Respiratory,Capsule,10 ml,284.59,881,39,2027-12-07,Available
+MED00367,Ibuprofen,Azithromycin,Alkem,Antacid,Injection,10 ml,1363.25,976,88,2026-12-24,Available
+MED00368,Montelukast,Losartan,Cipla,Cardiology,Tablet,500 mg,314.65,179,63,2029-05-28,Available
+MED00369,Rabeprazole,Ranitidine,GSK,Vitamin,Capsule,5 ml,1409.84,890,32,2029-06-07,Available
+MED00370,Dolo 650,Omeprazole,Sun Pharma,Vitamin,Tablet,50 mg,608.82,306,26,2026-12-16,Available
+MED00371,ORS,Diclofenac,Abbott,Painkiller,Drops,50 mg,1290.83,619,66,2029-03-20,Available
+MED00372,Montelukast,Cefixime,Pfizer,Antibiotic,Drops,5 ml,714.39,831,48,2027-08-09,Available
+MED00373,Metformin,Levocetirizine,Alkem,Antidiabetic,Injection,250 mg,215.41,371,67,2029-04-27,Available
+MED00374,Diclofenac,Salbutamol,Alkem,Painkiller,Capsule,650 mg,1350.75,471,77,2026-10-15,Available
+MED00375,Dolo 650,Levocetirizine,Pfizer,Antibiotic,Capsule,650 mg,915.95,124,48,2027-04-27,Available
+MED00376,Rabeprazole,Crocin,Lupin,Antidiabetic,Injection,500 mg,554.82,601,55,2029-01-19,Available
+MED00377,Rabeprazole,Ranitidine,Lupin,Painkiller,Syrup,650 mg,29.79,112,98,2028-09-09,Available
+MED00378,Paracetamol,Amoxicillin,Abbott,Antacid,Drops,10 ml,974.06,559,75,2029-02-27,Available
+MED00379,Insulin,Ondansetron,Mankind,Cardiology,Capsule,10 ml,1356.24,626,40,2028-06-14,Available
+MED00380,Diclofenac,Omeprazole,Torrent,Cardiology,Drops,500 mg,311.19,891,55,2029-06-20,Available
+MED00381,Rabeprazole,Pantoprazole,Sun Pharma,Antibiotic,Syrup,250 mg,1428.66,367,34,2027-05-15,Available
+MED00382,Atorvastatin,Amlodipine,Sun Pharma,Painkiller,Capsule,5 ml,254.55,896,100,2028-02-12,Available
+MED00383,Ibuprofen,Omeprazole,Dr. Reddy's,Painkiller,Injection,500 mg,582.7,378,41,2027-08-14,Available
+MED00384,Calcium,Metformin,Sun Pharma,Antacid,Capsule,50 mg,979.12,276,25,2029-04-06,Available
+MED00385,Ondansetron,Paracetamol,Mankind,Painkiller,Tablet,100 mg,1223.4,130,41,2027-07-27,Available
+MED00386,Azithromycin,Metformin,Pfizer,Antibiotic,Capsule,250 mg,883.96,117,33,2028-03-26,Available
+MED00387,Diclofenac,Crocin,Sun Pharma,Antidiabetic,Tablet,250 mg,1114.37,758,64,2028-09-05,Available
+MED00388,Cefixime,Azithromycin,Torrent,Antidiabetic,Injection,10 ml,1347.16,283,47,2027-07-28,Available
+MED00389,Paracetamol,Dolo 650,Dr. Reddy's,Respiratory,Drops,500 mg,203.72,843,69,2029-02-22,Available
+MED00390,Telmisartan,Cetirizine,Dr. Reddy's,Respiratory,Injection,100 mg,990.24,171,30,2027-09-28,Available
+MED00391,Telmisartan,Vitamin D3,Abbott,Painkiller,Injection,250 mg,779.88,769,46,2029-02-20,Available
+MED00392,Telmisartan,Domperidone,Abbott,Antacid,Injection,5 ml,1431.28,465,96,2026-10-07,Available
+MED00393,Telmisartan,Rabeprazole,Torrent,Painkiller,Tablet,500 mg,443.55,977,89,2026-06-29,Available
+MED00394,Cefixime,Ondansetron,Cipla,General Medicine,Injection,250 mg,1167.58,128,38,2028-03-09,Available
+MED00395,Ranitidine,Losartan,Alkem,Painkiller,Syrup,5 ml,57.73,280,22,2028-09-18,Available
+MED00396,Azithromycin,Cetirizine,Dr. Reddy's,Antibiotic,Drops,50 mg,553.67,668,82,2027-12-07,Available
+MED00397,Insulin,Metformin,Alkem,Painkiller,Drops,650 mg,1168.64,992,92,2028-09-01,Available
+MED00398,Levocetirizine,Ceftriaxone,Mankind,Antibiotic,Drops,5 ml,553.8,613,58,2028-03-22,Available
+MED00399,Vitamin D3,Omeprazole,Cipla,General Medicine,Injection,500 mg,41.35,97,91,2027-06-19,Available
+MED00400,Cefixime,Pantoprazole,Alkem,General Medicine,Tablet,50 mg,658.55,745,27,2028-03-21,Available
+MED00401,Levocetirizine,Ibuprofen,Abbott,Vitamin,Tablet,650 mg,1119.9,652,62,2027-07-22,Available
+MED00402,Paracetamol,Aspirin,Dr. Reddy's,General Medicine,Tablet,500 mg,219.55,342,42,2028-12-15,Available
+MED00403,Metformin,Vitamin D3,Sun Pharma,Painkiller,Drops,500 mg,655.33,95,99,2028-10-13,Available
+MED00404,Ibuprofen,Amlodipine,Cipla,Antacid,Tablet,250 mg,1188.87,217,51,2027-06-29,Available
+MED00405,Ceftriaxone,Dolo 650,Sun Pharma,Painkiller,Drops,250 mg,984.66,836,31,2026-12-31,Available
+MED00406,Montelukast,Pantoprazole,Mankind,General Medicine,Injection,10 ml,1226.01,999,26,2028-09-24,Available
+MED00407,ORS,Levocetirizine,Cipla,Antacid,Capsule,500 mg,332.91,463,27,2028-05-27,Available
+MED00408,Diclofenac,Calcium,Torrent,Painkiller,Injection,10 ml,341.76,737,41,2027-04-12,Available
+MED00409,Losartan,Cetirizine,Pfizer,General Medicine,Tablet,250 mg,1369.44,676,74,2027-07-15,Available
+MED00410,Domperidone,Vitamin D3,Lupin,Vitamin,Injection,250 mg,861.81,832,75,2027-02-25,Available
+MED00411,Ondansetron,Paracetamol,Pfizer,Antibiotic,Injection,500 mg,1484.27,115,56,2027-05-18,Available
+MED00412,Azithromycin,Domperidone,Dr. Reddy's,Vitamin,Capsule,10 ml,858.87,415,70,2029-04-10,Available
+MED00413,Amoxicillin,Omeprazole,Lupin,Antacid,Drops,5 ml,1193.73,693,50,2029-05-03,Available
+MED00414,Iron Tablets,Salbutamol,Alkem,Painkiller,Tablet,500 mg,1380.77,205,94,2026-10-20,Available
+MED00415,Crocin,Montelukast,Torrent,Painkiller,Drops,10 ml,1351.9,609,41,2026-10-28,Available
+MED00416,Aspirin,Iron Tablets,Abbott,Painkiller,Capsule,100 mg,974.33,683,56,2029-02-21,Available
+MED00417,Montelukast,Paracetamol,Abbott,Antibiotic,Syrup,500 mg,700.79,925,62,2028-05-05,Available
+MED00418,Telmisartan,Iron Tablets,Mankind,Cardiology,Capsule,650 mg,1471.93,626,38,2027-03-25,Available
+MED00419,Ranitidine,Dolo 650,Cipla,Vitamin,Capsule,50 mg,443.06,285,28,2026-10-22,Available
+MED00420,Ranitidine,Dolo 650,Sun Pharma,Painkiller,Tablet,50 mg,85.49,395,40,2029-05-24,Available
+MED00421,Atorvastatin,Crocin,Abbott,Antibiotic,Syrup,10 ml,750.44,659,23,2027-08-20,Available
+MED00422,Domperidone,Azithromycin,Alkem,Vitamin,Injection,5 ml,1176.28,62,52,2028-07-18,Available
+MED00423,Levocetirizine,Vitamin D3,Lupin,Antibiotic,Drops,650 mg,490.65,769,95,2027-11-01,Available
+MED00424,Losartan,ORS,Sun Pharma,Respiratory,Injection,5 ml,1334.23,494,46,2027-06-16,Available
+MED00425,Azithromycin,Losartan,Mankind,Antidiabetic,Injection,100 mg,409.03,409,37,2028-07-21,Available
+MED00426,Vitamin D3,Ranitidine,Pfizer,Antacid,Injection,500 mg,1359.57,290,38,2027-11-18,Available
+MED00427,Domperidone,Ondansetron,GSK,Painkiller,Tablet,5 ml,655.39,543,66,2027-08-03,Available
+MED00428,Domperidone,Ranitidine,Torrent,Antidiabetic,Tablet,50 mg,636.27,942,58,2026-11-10,Available
+MED00429,Calcium,Metformin,Alkem,General Medicine,Drops,5 ml,877.48,147,41,2027-11-28,Available
+MED00430,Ceftriaxone,Ranitidine,Pfizer,Antidiabetic,Injection,500 mg,434.55,668,86,2029-05-25,Available
+MED00431,Levocetirizine,Ibuprofen,Mankind,Vitamin,Syrup,100 mg,629.7,787,21,2028-08-23,Available
+MED00432,Rabeprazole,Cetirizine,Sun Pharma,General Medicine,Drops,10 ml,1184.61,762,56,2028-09-22,Available
+MED00433,Amlodipine,Atorvastatin,Alkem,Antibiotic,Tablet,650 mg,1395.32,287,72,2029-06-22,Available
+MED00434,Cetirizine,Cefixime,Sun Pharma,Cardiology,Tablet,5 ml,400.57,603,75,2027-03-19,Available
+MED00435,Domperidone,Rabeprazole,Pfizer,Painkiller,Capsule,5 ml,1121.75,714,20,2028-10-04,Available
+MED00436,Rabeprazole,Montelukast,Dr. Reddy's,Painkiller,Tablet,500 mg,80.34,998,95,2028-04-22,Available
+MED00437,Salbutamol,Ranitidine,Dr. Reddy's,General Medicine,Capsule,650 mg,308.37,530,40,2027-05-24,Available
+MED00438,Paracetamol,Cetirizine,Mankind,Antacid,Drops,250 mg,882.71,190,63,2026-09-07,Available
+MED00439,Paracetamol,Omeprazole,Alkem,Painkiller,Capsule,500 mg,1452.63,795,33,2028-11-19,Available
+MED00440,Omeprazole,Montelukast,Alkem,Respiratory,Tablet,500 mg,592.39,268,94,2028-09-11,Available
+MED00441,Telmisartan,Calcium,Alkem,Antibiotic,Drops,10 ml,289.11,484,31,2027-12-06,Available
+MED00442,Calcium,Metformin,Cipla,Antibiotic,Tablet,50 mg,1286.15,909,45,2026-11-22,Available
+MED00443,Levocetirizine,Dolo 650,Torrent,Cardiology,Tablet,10 ml,864.58,759,55,2029-04-18,Available
+MED00444,Pantoprazole,Iron Tablets,Sun Pharma,Antacid,Capsule,100 mg,426.77,251,54,2026-12-12,Available
+MED00445,Aspirin,Telmisartan,Abbott,Painkiller,Drops,250 mg,1455.58,547,29,2029-05-11,Available
+MED00446,Iron Tablets,Cefixime,Lupin,General Medicine,Capsule,100 mg,632.14,82,81,2027-12-25,Available
+MED00447,Ceftriaxone,ORS,Dr. Reddy's,General Medicine,Drops,250 mg,953.21,812,35,2028-08-23,Available
+MED00448,Iron Tablets,Crocin,Torrent,Painkiller,Capsule,5 ml,490.28,812,74,2029-03-30,Available
+MED00449,ORS,Telmisartan,Torrent,Antacid,Capsule,250 mg,779.37,615,56,2028-11-11,Available
+MED00450,Crocin,Iron Tablets,GSK,Respiratory,Tablet,500 mg,905.52,670,41,2028-05-26,Available
+MED00451,Omeprazole,Ceftriaxone,Mankind,Respiratory,Injection,100 mg,362.46,78,91,2028-09-17,Available
+MED00452,Paracetamol,Azithromycin,Lupin,Antibiotic,Capsule,10 ml,924.81,465,98,2028-09-02,Available
+MED00453,Crocin,Domperidone,GSK,Respiratory,Syrup,500 mg,186.35,799,42,2028-03-09,Available
+MED00454,Amoxicillin,Salbutamol,Lupin,Painkiller,Tablet,250 mg,659.17,617,97,2026-09-23,Available
+MED00455,Domperidone,Dolo 650,Alkem,Antibiotic,Syrup,50 mg,1358.34,356,55,2028-03-07,Available
+MED00456,Amlodipine,Crocin,Abbott,Antibiotic,Syrup,5 ml,761.26,825,75,2027-02-02,Available
+MED00457,Dolo 650,Dolo 650,Abbott,Antidiabetic,Drops,250 mg,896.53,504,26,2028-01-24,Available
+MED00458,Insulin,Iron Tablets,Pfizer,Antibiotic,Drops,10 ml,304.48,466,41,2027-02-10,Available
+MED00459,Rabeprazole,Aspirin,Torrent,Cardiology,Capsule,250 mg,645.86,516,60,2027-12-07,Available
+MED00460,ORS,Ibuprofen,Pfizer,Vitamin,Tablet,250 mg,1320.25,438,66,2026-07-28,Available
+MED00461,Insulin,Rabeprazole,Cipla,Antibiotic,Tablet,250 mg,1356.17,693,78,2027-11-27,Available
+MED00462,Cetirizine,Crocin,Lupin,Vitamin,Injection,50 mg,840.21,791,40,2027-05-07,Available
+MED00463,Amoxicillin,Paracetamol,Torrent,Antibiotic,Tablet,10 ml,822.74,924,56,2027-11-07,Available
+MED00464,Levocetirizine,Aspirin,Lupin,Antibiotic,Drops,650 mg,1264.25,161,73,2028-07-15,Available
+MED00465,Telmisartan,Ceftriaxone,Torrent,Antibiotic,Drops,500 mg,1463.15,957,67,2028-03-29,Available
+MED00466,Paracetamol,Domperidone,Mankind,Antacid,Capsule,100 mg,815.63,233,99,2028-03-30,Available
+MED00467,Iron Tablets,Aspirin,Abbott,Cardiology,Tablet,650 mg,562.77,377,23,2027-08-02,Available
+MED00468,Omeprazole,Levocetirizine,Dr. Reddy's,Respiratory,Drops,250 mg,781.02,333,24,2027-04-29,Available
+MED00469,Calcium,Ceftriaxone,Cipla,Painkiller,Drops,650 mg,567.83,757,24,2029-02-15,Available
+MED00470,Iron Tablets,Ibuprofen,Dr. Reddy's,Painkiller,Drops,5 ml,1252.65,274,92,2028-12-08,Available
+MED00471,Omeprazole,Omeprazole,Dr. Reddy's,Antibiotic,Capsule,100 mg,666.0,884,50,2027-05-11,Available
+MED00472,Metformin,ORS,Lupin,Antacid,Drops,250 mg,1490.48,473,75,2027-03-27,Available
+MED00473,Telmisartan,Ranitidine,Torrent,Respiratory,Capsule,100 mg,747.72,590,58,2027-09-16,Available
+MED00474,Atorvastatin,Dolo 650,Cipla,Cardiology,Drops,5 ml,326.81,490,93,2027-06-30,Available
+MED00475,Cetirizine,Atorvastatin,GSK,Antibiotic,Injection,250 mg,966.83,90,96,2027-06-06,Available
+MED00476,Paracetamol,Amoxicillin,Dr. Reddy's,General Medicine,Injection,5 ml,762.01,107,85,2028-03-24,Available
+MED00477,Ceftriaxone,Aspirin,GSK,Antacid,Tablet,650 mg,1151.03,716,58,2027-03-19,Available
+MED00478,Omeprazole,Amoxicillin,Torrent,Antidiabetic,Capsule,10 ml,1354.03,234,34,2027-07-04,Available
+MED00479,Domperidone,Levocetirizine,Torrent,General Medicine,Drops,50 mg,367.44,346,45,2028-08-10,Available
+MED00480,Paracetamol,Insulin,Cipla,Antibiotic,Injection,500 mg,114.13,385,36,2027-04-26,Available
+MED00481,Salbutamol,Ceftriaxone,Mankind,Antibiotic,Tablet,100 mg,848.18,890,42,2029-02-23,Available
+MED00482,Pantoprazole,Rabeprazole,Lupin,Cardiology,Injection,50 mg,847.51,256,62,2026-07-06,Available
+MED00483,Domperidone,Azithromycin,Cipla,Vitamin,Capsule,500 mg,1035.65,806,95,2027-11-17,Available
+MED00484,Cetirizine,Rabeprazole,Abbott,Respiratory,Drops,650 mg,1098.15,865,84,2026-08-18,Available
+MED00485,Ceftriaxone,Ondansetron,Sun Pharma,Vitamin,Tablet,5 ml,372.57,361,88,2028-06-15,Available
+MED00486,Rabeprazole,Ceftriaxone,GSK,Antidiabetic,Drops,650 mg,1391.84,775,23,2027-09-25,Available
+MED00487,Calcium,Rabeprazole,Dr. Reddy's,General Medicine,Injection,100 mg,1400.12,597,94,2028-02-14,Available
+MED00488,Amlodipine,Salbutamol,Sun Pharma,Vitamin,Drops,50 mg,212.1,58,66,2028-04-20,Available
+MED00489,Ceftriaxone,Ceftriaxone,Pfizer,Antibiotic,Drops,250 mg,1272.2,72,25,2026-09-14,Available
+MED00490,Domperidone,Diclofenac,Cipla,Respiratory,Capsule,650 mg,888.98,648,78,2028-03-28,Available
+MED00491,Aspirin,Losartan,Alkem,Respiratory,Tablet,100 mg,1362.3,123,98,2026-08-21,Available
+MED00492,Omeprazole,Iron Tablets,Pfizer,Respiratory,Drops,650 mg,463.25,193,71,2029-04-08,Available
+MED00493,Levocetirizine,Cefixime,Pfizer,Antacid,Syrup,650 mg,25.06,211,95,2027-06-12,Available
+MED00494,Pantoprazole,Aspirin,Mankind,Painkiller,Capsule,650 mg,358.05,190,52,2028-09-06,Available
+MED00495,Metformin,ORS,Cipla,Respiratory,Tablet,650 mg,895.62,891,43,2028-06-30,Available
+MED00496,ORS,Telmisartan,Dr. Reddy's,Cardiology,Tablet,100 mg,1435.2,938,41,2027-05-23,Available
+MED00497,Amlodipine,Ondansetron,Abbott,Antidiabetic,Injection,100 mg,801.52,855,34,2027-10-18,Available
+MED00498,Iron Tablets,Azithromycin,Mankind,Vitamin,Capsule,50 mg,737.49,322,50,2029-03-13,Available
+MED00499,Rabeprazole,Telmisartan,Pfizer,Cardiology,Capsule,650 mg,193.3,895,78,2026-12-02,Available
+MED00500,Insulin,Cefixime,Alkem,Vitamin,Capsule,500 mg,1082.59,132,62,2026-07-01,Available
+MED00501,Levocetirizine,Rabeprazole,Mankind,Antibiotic,Capsule,650 mg,665.97,749,45,2026-10-07,Available
+MED00502,Salbutamol,Rabeprazole,Pfizer,Vitamin,Injection,250 mg,437.83,642,52,2028-10-25,Available
+MED00503,Amoxicillin,Diclofenac,Cipla,General Medicine,Capsule,250 mg,85.54,970,34,2027-06-10,Available
+MED00504,Atorvastatin,Insulin,Alkem,Cardiology,Tablet,50 mg,855.56,340,30,2029-06-21,Available
+MED00505,Domperidone,ORS,GSK,General Medicine,Syrup,5 ml,510.29,63,37,2028-08-12,Available
+MED00506,Iron Tablets,Omeprazole,Alkem,Antibiotic,Tablet,10 ml,330.77,140,45,2029-05-15,Available
+MED00507,Cefixime,Telmisartan,Cipla,Antibiotic,Injection,5 ml,1431.88,628,22,2027-12-24,Available
+MED00508,Omeprazole,ORS,Cipla,Painkiller,Tablet,5 ml,1078.95,793,25,2028-09-11,Available
+MED00509,Amlodipine,Pantoprazole,Abbott,Cardiology,Syrup,5 ml,966.6,509,61,2028-05-15,Available
+MED00510,Aspirin,Pantoprazole,Dr. Reddy's,Antidiabetic,Tablet,250 mg,901.28,751,100,2029-04-22,Available
+MED00511,Crocin,ORS,Torrent,Respiratory,Drops,500 mg,10.22,460,91,2027-05-03,Available
+MED00512,Amoxicillin,Diclofenac,Cipla,Respiratory,Tablet,650 mg,870.61,945,95,2028-09-25,Available
+MED00513,Cetirizine,Metformin,Dr. Reddy's,Painkiller,Capsule,50 mg,1082.66,432,47,2028-11-02,Available
+MED00514,Metformin,Insulin,Torrent,Painkiller,Syrup,250 mg,818.07,414,37,2028-03-31,Available
+MED00515,Amlodipine,Insulin,Lupin,Antibiotic,Capsule,10 ml,919.58,565,99,2028-05-09,Available
+MED00516,Dolo 650,Amoxicillin,Cipla,Antidiabetic,Syrup,5 ml,207.41,579,76,2028-09-07,Available
+MED00517,Vitamin D3,Domperidone,Sun Pharma,Painkiller,Syrup,50 mg,341.77,904,92,2028-05-29,Available
+MED00518,Losartan,Montelukast,Mankind,Antidiabetic,Tablet,500 mg,425.55,308,65,2027-11-28,Available
+MED00519,Azithromycin,Diclofenac,Sun Pharma,Vitamin,Capsule,100 mg,1103.11,507,59,2027-10-29,Available
+MED00520,Vitamin D3,Atorvastatin,Pfizer,Antacid,Tablet,50 mg,998.42,825,98,2028-09-18,Available
+MED00521,Salbutamol,Dolo 650,Lupin,Antidiabetic,Drops,100 mg,1382.54,963,88,2027-08-15,Available
+MED00522,Atorvastatin,Montelukast,Sun Pharma,Antidiabetic,Injection,50 mg,1415.76,936,41,2027-09-09,Available
+MED00523,Levocetirizine,Crocin,Cipla,Antidiabetic,Syrup,5 ml,746.59,731,64,2028-11-02,Available
+MED00524,Diclofenac,Amlodipine,Pfizer,Antacid,Tablet,650 mg,1029.41,212,32,2027-07-18,Available
+MED00525,Rabeprazole,Cefixime,Alkem,Respiratory,Capsule,100 mg,1041.55,213,80,2029-04-18,Available
+MED00526,Telmisartan,Iron Tablets,Alkem,Antibiotic,Injection,650 mg,357.29,193,56,2029-02-08,Available
+MED00527,Ibuprofen,ORS,Sun Pharma,Respiratory,Capsule,10 ml,1034.71,431,95,2028-11-23,Available
+MED00528,Iron Tablets,Diclofenac,Torrent,Respiratory,Syrup,5 ml,817.21,134,33,2026-07-01,Available
+MED00529,Pantoprazole,Cefixime,Dr. Reddy's,Painkiller,Tablet,250 mg,986.54,311,30,2026-12-23,Available
+MED00530,Cefixime,Rabeprazole,Sun Pharma,Antacid,Tablet,10 ml,701.49,663,27,2029-01-10,Available
+MED00531,Ranitidine,Diclofenac,Mankind,Painkiller,Drops,100 mg,289.9,914,36,2027-11-06,Available
+MED00532,Ondansetron,Calcium,Sun Pharma,Cardiology,Capsule,650 mg,456.25,721,43,2027-08-07,Available
+MED00533,Crocin,Atorvastatin,Dr. Reddy's,Antidiabetic,Syrup,5 ml,943.76,555,87,2027-05-25,Available
+MED00534,Ceftriaxone,Cetirizine,Pfizer,Antacid,Tablet,10 ml,1347.77,438,92,2029-01-04,Available
+MED00535,Atorvastatin,Dolo 650,Pfizer,Cardiology,Capsule,100 mg,633.57,978,78,2028-02-24,Available
+MED00536,Montelukast,Crocin,Lupin,Antacid,Tablet,500 mg,358.41,581,91,2028-10-01,Available
+MED00537,Domperidone,Metformin,Lupin,Painkiller,Capsule,5 ml,149.04,605,85,2027-03-26,Available
+MED00538,Telmisartan,Cefixime,Mankind,Painkiller,Injection,100 mg,861.78,108,39,2029-03-26,Available
+MED00539,Ondansetron,Domperidone,Abbott,Antacid,Capsule,50 mg,1321.62,282,96,2028-10-14,Available
+MED00540,Crocin,Cefixime,Alkem,General Medicine,Syrup,100 mg,124.92,540,22,2028-05-13,Available
+MED00541,Insulin,Salbutamol,Torrent,Painkiller,Syrup,250 mg,102.05,288,76,2028-08-14,Available
+MED00542,Losartan,Ranitidine,GSK,Antibiotic,Syrup,5 ml,905.17,719,79,2029-04-11,Available
+MED00543,Levocetirizine,Amlodipine,GSK,Antacid,Drops,250 mg,102.62,637,59,2026-12-07,Available
+MED00544,Atorvastatin,Azithromycin,Mankind,Vitamin,Drops,500 mg,671.99,860,69,2028-11-20,Available
+MED00545,Ondansetron,Ibuprofen,Pfizer,Antacid,Injection,250 mg,159.18,227,68,2026-09-19,Available
+MED00546,Azithromycin,Telmisartan,Abbott,Respiratory,Syrup,250 mg,1195.67,975,92,2028-08-17,Available
+MED00547,Crocin,Ranitidine,Torrent,Antidiabetic,Capsule,5 ml,1344.45,84,46,2028-08-26,Available
+MED00548,Iron Tablets,Crocin,Alkem,Antidiabetic,Tablet,250 mg,1231.38,138,40,2027-01-06,Available
+MED00549,Ranitidine,Cetirizine,Cipla,General Medicine,Drops,650 mg,863.51,773,38,2028-12-07,Available
+MED00550,Cefixime,Levocetirizine,Alkem,Cardiology,Capsule,50 mg,1259.36,429,59,2026-07-25,Available
+MED00551,Diclofenac,Losartan,Lupin,Antibiotic,Syrup,100 mg,660.06,592,59,2028-02-29,Available
+MED00552,Ibuprofen,Diclofenac,Alkem,Vitamin,Capsule,250 mg,994.29,855,28,2026-07-09,Available
+MED00553,Iron Tablets,Diclofenac,Pfizer,Vitamin,Syrup,50 mg,421.03,456,83,2028-04-12,Available
+MED00554,Pantoprazole,Iron Tablets,Mankind,Respiratory,Tablet,650 mg,1017.02,281,65,2029-03-16,Available
+MED00555,Omeprazole,Rabeprazole,Cipla,Respiratory,Tablet,650 mg,1379.37,281,51,2028-02-02,Available
+MED00556,Azithromycin,Telmisartan,Mankind,Antacid,Syrup,500 mg,629.74,199,41,2026-11-20,Available
+MED00557,Pantoprazole,Azithromycin,Dr. Reddy's,Antibiotic,Capsule,100 mg,187.62,643,68,2027-04-13,Available
+MED00558,Azithromycin,ORS,Pfizer,Antacid,Tablet,500 mg,238.86,767,41,2028-08-25,Available
+MED00559,Crocin,Calcium,Torrent,Painkiller,Capsule,100 mg,926.52,876,67,2026-11-27,Available
+MED00560,Aspirin,Paracetamol,GSK,General Medicine,Drops,10 ml,712.39,144,45,2028-03-17,Available
+MED00561,Calcium,Amlodipine,Mankind,Cardiology,Syrup,50 mg,572.35,305,69,2026-11-05,Available
+MED00562,ORS,Insulin,Torrent,Antibiotic,Syrup,10 ml,1471.07,264,88,2028-07-05,Available
+MED00563,Azithromycin,Amoxicillin,Sun Pharma,Respiratory,Injection,250 mg,271.01,86,79,2027-05-03,Available
+MED00564,Iron Tablets,Metformin,Pfizer,Respiratory,Tablet,500 mg,1456.96,354,81,2027-06-20,Available
+MED00565,Vitamin D3,Aspirin,Torrent,Antacid,Injection,500 mg,818.99,814,57,2027-07-06,Available
+MED00566,Calcium,Ibuprofen,Mankind,Antibiotic,Drops,500 mg,386.85,149,84,2028-11-30,Available
+MED00567,Crocin,Salbutamol,Dr. Reddy's,Antibiotic,Injection,50 mg,227.67,88,20,2026-11-12,Available
+MED00568,Aspirin,Atorvastatin,Cipla,Antibiotic,Injection,100 mg,276.92,250,59,2028-07-02,Available
+MED00569,Amlodipine,Atorvastatin,Pfizer,Vitamin,Injection,5 ml,1367.02,818,63,2028-11-01,Available
+MED00570,Losartan,Montelukast,GSK,Cardiology,Syrup,100 mg,637.11,242,36,2027-04-21,Available
+MED00571,Ceftriaxone,Diclofenac,Pfizer,Antidiabetic,Syrup,10 ml,695.05,850,58,2028-12-07,Available
+MED00572,Dolo 650,Diclofenac,Cipla,General Medicine,Tablet,500 mg,733.44,269,39,2028-04-08,Available
+MED00573,Aspirin,Amoxicillin,Lupin,General Medicine,Capsule,5 ml,893.15,600,64,2027-06-19,Available
+MED00574,Amoxicillin,Montelukast,Cipla,Antacid,Injection,650 mg,782.02,279,22,2029-01-11,Available
+MED00575,Amoxicillin,Insulin,Sun Pharma,Antibiotic,Injection,650 mg,304.56,446,90,2027-05-07,Available
+MED00576,Iron Tablets,Calcium,Alkem,General Medicine,Injection,650 mg,873.01,513,91,2028-07-01,Available
+MED00577,Diclofenac,Pantoprazole,Alkem,Respiratory,Tablet,250 mg,619.06,253,75,2027-08-14,Available
+MED00578,Metformin,Azithromycin,Cipla,Cardiology,Syrup,10 ml,115.08,392,40,2029-01-09,Available
+MED00579,Atorvastatin,Ranitidine,Mankind,Antacid,Syrup,250 mg,310.3,53,94,2028-03-24,Available
+MED00580,Calcium,Insulin,Cipla,Cardiology,Drops,500 mg,1055.72,929,94,2028-07-25,Available
+MED00581,Omeprazole,Ceftriaxone,Cipla,Antibiotic,Injection,5 ml,61.8,356,83,2029-04-30,Available
+MED00582,Azithromycin,Losartan,GSK,Antacid,Injection,650 mg,490.36,935,46,2028-04-16,Available
+MED00583,Atorvastatin,Amlodipine,Abbott,Cardiology,Capsule,100 mg,53.89,152,97,2028-03-25,Available
+MED00584,Telmisartan,Omeprazole,Torrent,Antibiotic,Syrup,5 ml,297.27,550,74,2027-05-05,Available
+MED00585,Levocetirizine,Crocin,Lupin,Vitamin,Drops,5 ml,426.84,501,73,2029-04-21,Available
+MED00586,Ceftriaxone,ORS,Torrent,Antacid,Syrup,100 mg,1022.97,900,54,2026-09-26,Available
+MED00587,Ceftriaxone,Cefixime,Lupin,Respiratory,Injection,250 mg,478.97,579,79,2028-07-28,Available
+MED00588,Domperidone,Ceftriaxone,Alkem,Antidiabetic,Drops,50 mg,161.9,224,48,2027-04-23,Available
+MED00589,Insulin,Aspirin,Torrent,Antidiabetic,Syrup,10 ml,898.52,378,27,2026-07-04,Available
+MED00590,Domperidone,Amlodipine,Lupin,Antibiotic,Tablet,500 mg,1224.62,328,48,2029-03-16,Available
+MED00591,Diclofenac,Dolo 650,Mankind,Respiratory,Tablet,250 mg,1299.83,320,23,2027-05-22,Available
+MED00592,Metformin,Ondansetron,Abbott,Antibiotic,Syrup,500 mg,599.5,441,95,2027-06-02,Available
+MED00593,Calcium,Amlodipine,Torrent,Antidiabetic,Tablet,50 mg,630.43,392,60,2029-03-19,Available
+MED00594,Salbutamol,Ibuprofen,Alkem,Antacid,Drops,10 ml,1180.62,826,41,2026-11-23,Available
+MED00595,Levocetirizine,Amoxicillin,Dr. Reddy's,General Medicine,Injection,10 ml,1053.18,136,63,2028-07-07,Available
+MED00596,Rabeprazole,Metformin,Lupin,Antacid,Syrup,250 mg,483.96,80,87,2027-01-27,Available
+MED00597,Telmisartan,Ondansetron,Torrent,Vitamin,Tablet,650 mg,166.97,738,49,2027-07-20,Available
+MED00598,Pantoprazole,Ondansetron,Mankind,Antacid,Syrup,10 ml,143.77,333,78,2028-05-12,Available
+MED00599,Pantoprazole,Insulin,Cipla,Antidiabetic,Tablet,650 mg,1352.28,407,76,2027-03-03,Available
+MED00600,Amoxicillin,Levocetirizine,Alkem,General Medicine,Syrup,50 mg,374.02,431,20,2028-10-23,Available
+MED00601,Diclofenac,Dolo 650,Torrent,Antacid,Injection,250 mg,531.6,54,71,2029-04-17,Available
+MED00602,Metformin,ORS,Dr. Reddy's,Vitamin,Capsule,500 mg,984.16,480,77,2029-05-23,Available
+MED00603,Atorvastatin,Ondansetron,Abbott,General Medicine,Syrup,500 mg,247.16,858,54,2029-06-02,Available
+MED00604,Metformin,Iron Tablets,Sun Pharma,Antidiabetic,Capsule,250 mg,1260.89,733,38,2028-05-25,Available
+MED00605,Pantoprazole,Atorvastatin,Dr. Reddy's,Painkiller,Syrup,10 ml,125.49,213,47,2027-12-30,Available
+MED00606,Atorvastatin,Cetirizine,Pfizer,Antidiabetic,Drops,10 ml,641.95,442,78,2028-09-22,Available
+MED00607,Ondansetron,Domperidone,Alkem,Antibiotic,Tablet,10 ml,585.24,901,54,2026-12-23,Available
+MED00608,Cetirizine,Aspirin,Sun Pharma,General Medicine,Drops,5 ml,906.8,792,74,2029-05-22,Available
+MED00609,Diclofenac,ORS,Torrent,Cardiology,Drops,10 ml,1173.87,414,90,2028-03-10,Available
+MED00610,Cefixime,Domperidone,Mankind,General Medicine,Tablet,10 ml,622.53,585,93,2029-02-06,Available
+MED00611,Montelukast,Ranitidine,Alkem,Cardiology,Drops,650 mg,30.61,51,59,2027-07-28,Available
+MED00612,ORS,Amlodipine,GSK,Antibiotic,Drops,5 ml,1442.53,147,45,2029-04-13,Available
+MED00613,Montelukast,Atorvastatin,Sun Pharma,Vitamin,Syrup,250 mg,45.6,170,75,2027-08-08,Available
+MED00614,Aspirin,Diclofenac,Alkem,Antidiabetic,Tablet,500 mg,1209.42,53,50,2027-02-26,Available
+MED00615,Calcium,Ranitidine,Dr. Reddy's,Antibiotic,Tablet,250 mg,727.72,191,92,2027-02-10,Available
+MED00616,Cefixime,Levocetirizine,Cipla,Cardiology,Drops,50 mg,1295.03,339,22,2026-11-13,Available
+MED00617,ORS,Ondansetron,Mankind,Painkiller,Tablet,10 ml,615.27,97,92,2026-07-23,Available
+MED00618,Domperidone,Crocin,Abbott,Antacid,Syrup,650 mg,766.06,702,97,2027-12-22,Available
+MED00619,Metformin,Amlodipine,Torrent,Cardiology,Injection,5 ml,368.66,536,81,2028-02-12,Available
+MED00620,Cefixime,Calcium,Lupin,Antacid,Capsule,10 ml,1250.4,929,52,2026-12-08,Available
+MED00621,Diclofenac,Vitamin D3,Torrent,Painkiller,Tablet,5 ml,1079.73,885,53,2029-04-27,Available
+MED00622,Ranitidine,Montelukast,Mankind,Vitamin,Drops,100 mg,905.88,542,72,2027-08-01,Available
+MED00623,Ranitidine,Insulin,Sun Pharma,Antacid,Drops,650 mg,672.62,320,77,2027-03-05,Available
+MED00624,ORS,ORS,Pfizer,Cardiology,Injection,10 ml,458.25,871,48,2028-11-28,Available
+MED00625,ORS,Azithromycin,Cipla,Painkiller,Drops,500 mg,775.94,266,21,2028-11-14,Available
+MED00626,Domperidone,Ceftriaxone,Mankind,Antibiotic,Capsule,250 mg,220.16,481,64,2028-01-02,Available
+MED00627,Amlodipine,Montelukast,Cipla,General Medicine,Drops,500 mg,1453.71,959,52,2026-10-21,Available
+MED00628,Rabeprazole,Omeprazole,Pfizer,Vitamin,Syrup,650 mg,575.0,234,85,2029-01-15,Available
+MED00629,Crocin,Levocetirizine,Lupin,Cardiology,Tablet,500 mg,160.56,136,39,2027-09-05,Available
+MED00630,Vitamin D3,Diclofenac,Sun Pharma,Respiratory,Capsule,250 mg,517.16,153,52,2027-02-20,Available
+MED00631,Cefixime,Cetirizine,Alkem,Vitamin,Tablet,5 ml,511.05,296,43,2027-12-19,Available
+MED00632,Amoxicillin,Pantoprazole,Cipla,General Medicine,Drops,650 mg,37.88,635,47,2028-01-01,Available
+MED00633,Ranitidine,Amoxicillin,GSK,General Medicine,Tablet,500 mg,1470.72,921,31,2027-12-28,Available
+MED00634,Levocetirizine,Insulin,GSK,Antibiotic,Tablet,500 mg,1271.49,834,66,2027-09-28,Available
+MED00635,Telmisartan,Rabeprazole,Pfizer,Antidiabetic,Injection,10 ml,976.46,885,44,2027-09-13,Available
+MED00636,Amoxicillin,Aspirin,GSK,Vitamin,Injection,50 mg,172.69,163,41,2027-09-07,Available
+MED00637,Vitamin D3,Levocetirizine,Alkem,Antidiabetic,Syrup,5 ml,988.13,462,30,2027-06-29,Available
+MED00638,Cefixime,Montelukast,Pfizer,Antibiotic,Drops,250 mg,1496.45,590,80,2029-02-04,Available
+MED00639,Cefixime,Dolo 650,Dr. Reddy's,General Medicine,Tablet,500 mg,81.66,283,27,2028-12-02,Available
+MED00640,Cetirizine,Metformin,Pfizer,Painkiller,Tablet,500 mg,136.22,200,80,2028-07-25,Available
+MED00641,Rabeprazole,Iron Tablets,Lupin,General Medicine,Drops,650 mg,164.56,356,86,2026-08-09,Available
+MED00642,Dolo 650,Atorvastatin,Dr. Reddy's,Antacid,Syrup,5 ml,137.21,550,92,2028-03-08,Available
+MED00643,Amoxicillin,Telmisartan,Alkem,Antidiabetic,Injection,250 mg,197.15,606,90,2028-04-01,Available
+MED00644,Atorvastatin,Ibuprofen,Alkem,Antidiabetic,Syrup,250 mg,123.01,180,44,2027-10-03,Available
+MED00645,Diclofenac,Aspirin,GSK,Antidiabetic,Tablet,5 ml,758.02,154,58,2028-10-02,Available
+MED00646,Pantoprazole,Iron Tablets,Lupin,Respiratory,Capsule,250 mg,1449.92,197,92,2026-11-10,Available
+MED00647,Ranitidine,Levocetirizine,Sun Pharma,Antacid,Injection,500 mg,494.06,292,72,2027-02-25,Available
+MED00648,Omeprazole,Insulin,Lupin,Antidiabetic,Syrup,5 ml,614.57,838,34,2028-10-24,Available
+MED00649,Insulin,Calcium,Torrent,Respiratory,Tablet,5 ml,1242.28,666,36,2027-01-24,Available
+MED00650,Ranitidine,ORS,Dr. Reddy's,Antacid,Injection,650 mg,1300.79,168,58,2027-09-30,Available
+MED00651,Telmisartan,Vitamin D3,Dr. Reddy's,Respiratory,Drops,100 mg,829.13,903,58,2026-11-15,Available
+MED00652,Montelukast,Salbutamol,Abbott,Respiratory,Injection,650 mg,148.02,524,35,2029-05-26,Available
+MED00653,Ondansetron,Paracetamol,Sun Pharma,General Medicine,Injection,5 ml,682.25,358,34,2027-12-06,Available
+MED00654,Salbutamol,Losartan,GSK,Antidiabetic,Drops,5 ml,862.26,590,36,2029-06-14,Available
+MED00655,Iron Tablets,Calcium,Dr. Reddy's,Vitamin,Injection,5 ml,793.02,180,86,2026-10-31,Available
+MED00656,Ibuprofen,Diclofenac,Cipla,Vitamin,Tablet,500 mg,249.06,329,84,2027-11-13,Available
+MED00657,Levocetirizine,Cefixime,Alkem,Antacid,Injection,5 ml,1235.16,98,55,2028-05-17,Available
+MED00658,Omeprazole,Azithromycin,Sun Pharma,Painkiller,Tablet,100 mg,397.47,359,83,2027-10-31,Available
+MED00659,Iron Tablets,Ceftriaxone,GSK,Painkiller,Capsule,100 mg,1429.99,691,43,2027-02-14,Available
+MED00660,Ondansetron,Crocin,GSK,Cardiology,Drops,650 mg,321.64,451,72,2028-08-02,Available
+MED00661,Vitamin D3,Salbutamol,Abbott,Antacid,Syrup,500 mg,938.85,283,100,2027-08-09,Available
+MED00662,Azithromycin,Ceftriaxone,Torrent,Cardiology,Capsule,250 mg,620.1,215,94,2027-04-11,Available
+MED00663,Amoxicillin,Telmisartan,Dr. Reddy's,Antacid,Injection,500 mg,453.49,385,51,2029-04-26,Available
+MED00664,Iron Tablets,Omeprazole,Mankind,Respiratory,Drops,650 mg,98.86,229,92,2029-05-15,Available
+MED00665,Insulin,ORS,Mankind,Vitamin,Drops,10 ml,1112.48,620,54,2029-03-24,Available
+MED00666,Vitamin D3,Montelukast,Cipla,Antacid,Tablet,10 ml,953.33,607,65,2029-04-21,Available
+MED00667,Levocetirizine,Calcium,GSK,Painkiller,Capsule,650 mg,1060.93,965,35,2027-11-03,Available
+MED00668,Aspirin,Losartan,Lupin,General Medicine,Capsule,650 mg,158.8,743,38,2029-05-18,Available
+MED00669,Aspirin,Calcium,Dr. Reddy's,Antacid,Capsule,250 mg,1072.76,512,83,2027-02-05,Available
+MED00670,Montelukast,Omeprazole,Lupin,Cardiology,Capsule,50 mg,1024.45,538,31,2028-10-30,Available
+MED00671,Atorvastatin,Azithromycin,Abbott,General Medicine,Syrup,100 mg,778.52,737,54,2027-12-12,Available
+MED00672,Amoxicillin,Salbutamol,Lupin,Painkiller,Drops,250 mg,506.13,652,33,2028-04-11,Available
+MED00673,Ranitidine,Vitamin D3,Mankind,Antacid,Syrup,5 ml,323.48,917,86,2029-03-03,Available
+MED00674,Iron Tablets,Amlodipine,Sun Pharma,Antacid,Tablet,10 ml,384.54,144,78,2028-09-13,Available
+MED00675,Telmisartan,Ceftriaxone,Dr. Reddy's,Vitamin,Syrup,10 ml,132.61,741,44,2026-10-02,Available
+MED00676,Paracetamol,Crocin,Abbott,Antacid,Injection,500 mg,1034.43,89,84,2028-09-24,Available
+MED00677,Amlodipine,Levocetirizine,Alkem,General Medicine,Injection,100 mg,1037.4,866,32,2028-02-05,Available
+MED00678,Insulin,Levocetirizine,Mankind,Painkiller,Capsule,5 ml,1071.19,829,21,2026-11-19,Available
+MED00679,Calcium,Cefixime,Sun Pharma,Antibiotic,Drops,100 mg,16.13,176,63,2029-01-05,Available
+MED00680,Rabeprazole,Dolo 650,Cipla,Painkiller,Syrup,100 mg,1458.11,372,92,2027-01-23,Available
+MED00681,Domperidone,Azithromycin,Sun Pharma,Antacid,Injection,250 mg,100.0,581,66,2026-09-10,Available
+MED00682,Levocetirizine,Paracetamol,Sun Pharma,Painkiller,Drops,100 mg,515.49,165,91,2026-12-02,Available
+MED00683,Diclofenac,Insulin,Sun Pharma,Painkiller,Tablet,650 mg,1423.49,630,75,2028-02-24,Available
+MED00684,Atorvastatin,Cefixime,Abbott,Antacid,Injection,650 mg,1198.9,374,97,2028-02-29,Available
+MED00685,Ibuprofen,Vitamin D3,Dr. Reddy's,Vitamin,Injection,100 mg,40.78,929,47,2027-06-26,Available
+MED00686,ORS,Cetirizine,Abbott,Cardiology,Injection,650 mg,1320.76,555,98,2028-02-28,Available
+MED00687,Montelukast,Dolo 650,Cipla,Antibiotic,Tablet,500 mg,586.75,366,66,2029-04-07,Available
+MED00688,ORS,Ibuprofen,Dr. Reddy's,Cardiology,Tablet,10 ml,824.71,295,58,2027-09-02,Available
+MED00689,Diclofenac,Levocetirizine,Alkem,Respiratory,Syrup,100 mg,1063.53,406,70,2028-06-25,Available
+MED00690,Ranitidine,Calcium,Alkem,Antacid,Syrup,650 mg,837.74,95,94,2027-06-23,Available
+MED00691,Calcium,Ceftriaxone,Lupin,Painkiller,Capsule,250 mg,273.03,210,63,2028-12-06,Available
+MED00692,Ceftriaxone,ORS,Sun Pharma,General Medicine,Capsule,650 mg,1079.22,699,28,2029-03-18,Available
+MED00693,Metformin,Ceftriaxone,Torrent,Cardiology,Tablet,650 mg,1197.33,224,75,2027-03-09,Available
+MED00694,Ibuprofen,Diclofenac,Lupin,Antidiabetic,Injection,250 mg,538.92,111,71,2027-07-30,Available
+MED00695,Rabeprazole,Vitamin D3,Alkem,Painkiller,Capsule,650 mg,34.32,406,65,2028-07-30,Available
+MED00696,Levocetirizine,Metformin,GSK,Antidiabetic,Tablet,650 mg,1194.26,396,39,2029-04-06,Available
+MED00697,Aspirin,Losartan,Dr. Reddy's,Respiratory,Syrup,100 mg,1129.57,60,98,2027-08-02,Available
+MED00698,Amoxicillin,Crocin,Torrent,Antacid,Tablet,50 mg,897.8,75,86,2026-09-20,Available
+MED00699,Omeprazole,Paracetamol,Abbott,Respiratory,Tablet,500 mg,816.87,792,100,2027-01-27,Available
+MED00700,Aspirin,Montelukast,Abbott,Vitamin,Syrup,650 mg,1218.25,340,35,2029-01-25,Available
+MED00701,Ibuprofen,Salbutamol,Pfizer,Antidiabetic,Syrup,5 ml,580.76,240,73,2029-02-04,Available
+MED00702,Telmisartan,Atorvastatin,Abbott,Cardiology,Injection,100 mg,935.77,155,41,2029-04-17,Available
+MED00703,Cetirizine,Iron Tablets,GSK,Cardiology,Syrup,500 mg,910.52,561,65,2028-09-14,Available
+MED00704,Atorvastatin,Ondansetron,GSK,Antidiabetic,Injection,50 mg,386.61,812,57,2028-12-06,Available
+MED00705,Atorvastatin,Insulin,Pfizer,Antidiabetic,Capsule,250 mg,432.77,946,53,2027-06-10,Available
+MED00706,Metformin,Ceftriaxone,Abbott,Antibiotic,Tablet,650 mg,23.47,917,47,2029-06-25,Available
+MED00707,Ondansetron,Iron Tablets,Cipla,Vitamin,Tablet,10 ml,673.25,828,38,2028-04-14,Available
+MED00708,Losartan,Omeprazole,Cipla,Antacid,Injection,10 ml,1308.15,342,51,2028-02-17,Available
+MED00709,Domperidone,Omeprazole,Torrent,Antacid,Tablet,650 mg,44.39,690,87,2028-07-07,Available
+MED00710,Losartan,ORS,Mankind,Cardiology,Drops,650 mg,768.12,145,38,2027-12-20,Available
+MED00711,Ondansetron,Montelukast,Pfizer,Antacid,Tablet,500 mg,1323.49,117,99,2028-02-01,Available
+MED00712,Paracetamol,Atorvastatin,Abbott,Antibiotic,Drops,10 ml,838.02,262,63,2027-01-21,Available
+MED00713,Rabeprazole,Losartan,GSK,Respiratory,Injection,500 mg,682.85,797,88,2028-11-01,Available
+MED00714,Vitamin D3,Amoxicillin,Sun Pharma,General Medicine,Drops,50 mg,714.57,894,87,2027-05-30,Available
+MED00715,Atorvastatin,Iron Tablets,Sun Pharma,General Medicine,Tablet,250 mg,565.93,196,75,2028-09-25,Available
+MED00716,Dolo 650,Aspirin,Alkem,Antacid,Capsule,650 mg,222.9,760,71,2026-12-13,Available
+MED00717,Crocin,Losartan,Lupin,Vitamin,Drops,5 ml,1102.96,529,85,2026-08-06,Available
+MED00718,Cetirizine,Levocetirizine,Alkem,Antidiabetic,Injection,10 ml,1200.08,227,66,2028-04-21,Available
+MED00719,Omeprazole,Amoxicillin,Alkem,Respiratory,Syrup,10 ml,1455.46,500,32,2026-11-24,Available
+MED00720,Crocin,Crocin,Torrent,Painkiller,Syrup,500 mg,1227.39,681,54,2027-10-30,Available
+MED00721,Rabeprazole,Domperidone,Alkem,Painkiller,Tablet,50 mg,738.82,192,51,2027-07-07,Available
+MED00722,Calcium,ORS,Abbott,Antibiotic,Injection,100 mg,1365.49,309,88,2027-07-29,Available
+MED00723,Diclofenac,Diclofenac,Mankind,Cardiology,Syrup,10 ml,842.12,272,33,2028-11-26,Available
+MED00724,Aspirin,Atorvastatin,Cipla,Cardiology,Capsule,10 ml,266.03,91,98,2029-01-13,Available
+MED00725,Azithromycin,Salbutamol,Dr. Reddy's,Respiratory,Injection,500 mg,951.78,815,74,2028-05-16,Available
+MED00726,Telmisartan,Pantoprazole,Dr. Reddy's,Cardiology,Syrup,50 mg,308.51,391,36,2028-04-29,Available
+MED00727,Ibuprofen,Losartan,Torrent,Antibiotic,Injection,10 ml,1485.48,299,87,2026-12-29,Available
+MED00728,Salbutamol,Vitamin D3,Abbott,Respiratory,Drops,50 mg,42.31,575,99,2027-01-02,Available
+MED00729,Cetirizine,Crocin,Mankind,Antibiotic,Capsule,250 mg,93.52,583,92,2028-05-21,Available
+MED00730,Ceftriaxone,Telmisartan,GSK,Antacid,Drops,100 mg,968.36,154,28,2028-03-02,Available
+MED00731,Metformin,Vitamin D3,Lupin,Vitamin,Injection,50 mg,742.99,568,25,2029-03-04,Available
+MED00732,Calcium,Ibuprofen,Dr. Reddy's,Antidiabetic,Capsule,10 ml,194.96,346,51,2027-08-21,Available
+MED00733,Ceftriaxone,Ranitidine,Alkem,Antidiabetic,Drops,100 mg,854.29,893,40,2028-07-21,Available
+MED00734,Montelukast,Ondansetron,Mankind,General Medicine,Drops,10 ml,1378.54,509,97,2028-06-22,Available
+MED00735,Crocin,Diclofenac,Cipla,Vitamin,Syrup,100 mg,929.03,205,93,2027-06-11,Available
+MED00736,Cefixime,Montelukast,Lupin,Antacid,Drops,250 mg,1287.19,801,26,2029-04-30,Available
+MED00737,Ceftriaxone,Paracetamol,Alkem,Antidiabetic,Syrup,250 mg,931.8,308,29,2028-06-26,Available
+MED00738,Losartan,ORS,Pfizer,Cardiology,Injection,5 ml,1494.98,997,58,2028-01-31,Available
+MED00739,Metformin,Calcium,Mankind,General Medicine,Injection,5 ml,107.95,995,63,2026-10-22,Available
+MED00740,Amoxicillin,Levocetirizine,Abbott,Vitamin,Injection,10 ml,544.44,207,81,2027-12-19,Available
+MED00741,Atorvastatin,Domperidone,Cipla,Antacid,Injection,5 ml,31.44,132,76,2029-06-01,Available
+MED00742,Rabeprazole,Rabeprazole,Lupin,Cardiology,Syrup,10 ml,302.26,204,55,2027-12-10,Available
+MED00743,ORS,Ondansetron,GSK,General Medicine,Tablet,50 mg,1454.75,762,41,2029-03-19,Available
+MED00744,Cefixime,Amoxicillin,Sun Pharma,Antidiabetic,Tablet,50 mg,808.1,89,37,2028-11-14,Available
+MED00745,Omeprazole,Losartan,Abbott,Respiratory,Syrup,500 mg,735.29,553,31,2028-05-12,Available
+MED00746,Omeprazole,Montelukast,Lupin,Painkiller,Tablet,10 ml,73.63,991,51,2026-11-19,Available
+MED00747,Cefixime,Atorvastatin,Abbott,Painkiller,Capsule,650 mg,528.2,117,33,2028-11-27,Available
+MED00748,Telmisartan,Cetirizine,GSK,Respiratory,Tablet,500 mg,1020.36,247,50,2027-11-16,Available
+MED00749,Montelukast,Amlodipine,Sun Pharma,Vitamin,Drops,50 mg,614.12,576,72,2027-11-07,Available
+MED00750,Cefixime,Domperidone,Torrent,Antidiabetic,Injection,250 mg,201.23,347,86,2027-03-20,Available
+MED00751,Ibuprofen,Domperidone,Lupin,General Medicine,Capsule,50 mg,1420.76,516,60,2028-07-21,Available
+MED00752,Ceftriaxone,Losartan,Alkem,Respiratory,Capsule,50 mg,783.08,371,75,2027-05-21,Available
+MED00753,Ibuprofen,Crocin,Dr. Reddy's,Antacid,Capsule,50 mg,653.25,764,73,2027-05-22,Available
+MED00754,Cefixime,Diclofenac,Dr. Reddy's,Respiratory,Syrup,5 ml,1072.45,726,54,2028-02-29,Available
+MED00755,Telmisartan,Diclofenac,Alkem,General Medicine,Injection,50 mg,48.22,771,83,2028-03-26,Available
+MED00756,Domperidone,Atorvastatin,Mankind,General Medicine,Syrup,250 mg,1247.66,691,63,2026-12-27,Available
+MED00757,Vitamin D3,Ceftriaxone,Pfizer,Antibiotic,Drops,100 mg,895.33,948,49,2027-03-08,Available
+MED00758,Diclofenac,ORS,Mankind,Cardiology,Syrup,100 mg,1379.89,131,40,2028-10-28,Available
+MED00759,Aspirin,Vitamin D3,Torrent,Antacid,Syrup,5 ml,1345.71,634,80,2026-11-11,Available
+MED00760,Ceftriaxone,Aspirin,Pfizer,Antidiabetic,Injection,500 mg,1372.04,369,21,2027-05-03,Available
+MED00761,Vitamin D3,Telmisartan,Torrent,Antidiabetic,Injection,5 ml,1287.27,836,37,2027-11-27,Available
+MED00762,Azithromycin,Aspirin,Pfizer,Painkiller,Syrup,500 mg,409.89,779,71,2028-04-30,Available
+MED00763,Metformin,Losartan,Mankind,Vitamin,Injection,10 ml,282.85,659,36,2027-03-04,Available
+MED00764,Cetirizine,Losartan,Cipla,Respiratory,Syrup,650 mg,1087.58,451,60,2028-05-09,Available
+MED00765,Ranitidine,ORS,Mankind,Vitamin,Capsule,650 mg,692.05,842,60,2027-06-28,Available
+MED00766,Domperidone,Diclofenac,Cipla,Antidiabetic,Syrup,100 mg,1276.52,374,36,2026-09-11,Available
+MED00767,Insulin,Ibuprofen,Abbott,Painkiller,Syrup,250 mg,286.67,273,74,2027-01-31,Available
+MED00768,Cetirizine,Amlodipine,Torrent,General Medicine,Tablet,500 mg,756.38,731,45,2027-04-25,Available
+MED00769,Calcium,Omeprazole,Abbott,Antacid,Drops,50 mg,1144.76,796,75,2029-02-26,Available
+MED00770,Calcium,Crocin,Mankind,Respiratory,Tablet,50 mg,577.88,479,34,2028-05-02,Available
+MED00771,Iron Tablets,ORS,Alkem,Vitamin,Syrup,5 ml,440.46,296,60,2028-03-16,Available
+MED00772,Salbutamol,Atorvastatin,Abbott,Antibiotic,Drops,650 mg,35.28,467,80,2027-08-31,Available
+MED00773,Ibuprofen,Dolo 650,Lupin,Vitamin,Injection,500 mg,122.51,240,39,2027-12-29,Available
+MED00774,Vitamin D3,Salbutamol,Dr. Reddy's,Painkiller,Syrup,10 ml,205.84,225,85,2027-04-25,Available
+MED00775,Cefixime,Aspirin,Alkem,Cardiology,Injection,100 mg,475.47,1000,43,2028-02-09,Available
+MED00776,Azithromycin,ORS,Lupin,Cardiology,Capsule,500 mg,144.18,561,56,2026-11-13,Available
+MED00777,Rabeprazole,Ceftriaxone,Dr. Reddy's,Antidiabetic,Injection,5 ml,233.29,726,76,2028-10-15,Available
+MED00778,Telmisartan,Calcium,GSK,Respiratory,Syrup,250 mg,181.97,215,33,2029-01-09,Available
+MED00779,Amlodipine,Dolo 650,Alkem,Painkiller,Injection,650 mg,587.64,376,79,2027-10-28,Available
+MED00780,Iron Tablets,Losartan,Dr. Reddy's,Cardiology,Syrup,100 mg,421.16,800,36,2029-03-14,Available
+MED00781,Rabeprazole,Montelukast,Sun Pharma,Respiratory,Tablet,500 mg,219.8,604,81,2028-06-10,Available
+MED00782,Montelukast,Losartan,Abbott,Vitamin,Injection,100 mg,1481.43,275,95,2029-06-11,Available
+MED00783,Cefixime,Calcium,Sun Pharma,Antibiotic,Syrup,5 ml,454.05,138,35,2027-06-22,Available
+MED00784,ORS,Cefixime,Abbott,Cardiology,Injection,250 mg,1316.85,154,84,2029-01-03,Available
+MED00785,Insulin,Levocetirizine,Pfizer,General Medicine,Tablet,250 mg,766.04,360,22,2028-11-24,Available
+MED00786,Salbutamol,Ceftriaxone,Alkem,Antidiabetic,Injection,250 mg,154.72,414,66,2029-01-17,Available
+MED00787,Levocetirizine,Iron Tablets,Pfizer,General Medicine,Injection,10 ml,231.12,781,32,2026-10-13,Available
+MED00788,Dolo 650,Metformin,GSK,Vitamin,Syrup,50 mg,1244.84,621,25,2028-04-06,Available
+MED00789,ORS,Paracetamol,Mankind,General Medicine,Tablet,650 mg,300.13,868,67,2028-03-05,Available
+MED00790,Dolo 650,Dolo 650,Dr. Reddy's,Painkiller,Capsule,10 ml,873.14,554,43,2028-09-04,Available
+MED00791,Aspirin,Domperidone,Sun Pharma,Cardiology,Capsule,100 mg,1321.61,899,37,2028-05-07,Available
+MED00792,Cetirizine,Telmisartan,Sun Pharma,General Medicine,Drops,650 mg,20.42,317,53,2028-05-13,Available
+MED00793,Ibuprofen,Iron Tablets,Mankind,Antacid,Capsule,100 mg,831.69,540,72,2027-04-24,Available
+MED00794,Amoxicillin,Levocetirizine,Cipla,Respiratory,Capsule,10 ml,324.0,405,29,2027-11-12,Available
+MED00795,Amlodipine,ORS,Alkem,General Medicine,Tablet,100 mg,385.95,373,51,2027-01-15,Available
+MED00796,Domperidone,Ceftriaxone,Lupin,General Medicine,Tablet,500 mg,311.11,656,70,2029-01-01,Available
+MED00797,Ranitidine,Ibuprofen,Lupin,Vitamin,Capsule,500 mg,391.51,789,64,2028-10-01,Available
+MED00798,Montelukast,Salbutamol,Cipla,Painkiller,Tablet,650 mg,510.75,276,96,2026-07-01,Available
+MED00799,Diclofenac,Aspirin,Cipla,Respiratory,Drops,50 mg,1219.72,165,96,2028-02-13,Available
+MED00800,Amoxicillin,Losartan,Abbott,General Medicine,Tablet,250 mg,547.15,523,75,2027-10-08,Available
+MED00801,Levocetirizine,Aspirin,Sun Pharma,Cardiology,Capsule,250 mg,125.04,609,93,2028-10-29,Available
+MED00802,Ibuprofen,Domperidone,Mankind,General Medicine,Injection,100 mg,1332.44,265,36,2029-06-01,Available
+MED00803,ORS,Iron Tablets,Dr. Reddy's,Respiratory,Syrup,50 mg,165.76,512,98,2027-08-10,Available
+MED00804,Calcium,Diclofenac,Alkem,Painkiller,Injection,50 mg,1427.61,264,92,2028-01-15,Available
+MED00805,Vitamin D3,Ibuprofen,GSK,Antidiabetic,Tablet,50 mg,1326.31,256,73,2028-09-14,Available
+MED00806,Aspirin,Pantoprazole,Cipla,Vitamin,Tablet,250 mg,1275.37,698,93,2026-12-25,Available
+MED00807,Ibuprofen,Amlodipine,Alkem,Antidiabetic,Syrup,50 mg,232.84,985,56,2026-10-14,Available
+MED00808,Ibuprofen,Iron Tablets,Cipla,Respiratory,Injection,5 ml,427.62,131,56,2027-11-12,Available
+MED00809,Telmisartan,Telmisartan,Alkem,Antacid,Tablet,100 mg,1193.16,72,80,2029-03-29,Available
+MED00810,Cetirizine,Vitamin D3,Cipla,Vitamin,Injection,5 ml,505.2,818,52,2028-06-05,Available
+MED00811,Levocetirizine,Calcium,Sun Pharma,General Medicine,Syrup,650 mg,1356.65,850,37,2027-07-19,Available
+MED00812,Crocin,Levocetirizine,Cipla,Painkiller,Capsule,100 mg,1445.65,50,75,2027-08-26,Available
+MED00813,Ondansetron,Aspirin,Sun Pharma,Painkiller,Capsule,650 mg,1397.02,56,96,2026-11-10,Available
+MED00814,Amoxicillin,Insulin,Cipla,Antidiabetic,Injection,100 mg,489.17,290,74,2029-06-27,Available
+MED00815,Aspirin,Ibuprofen,Lupin,Antidiabetic,Syrup,500 mg,733.07,504,22,2026-07-10,Available
+MED00816,Ondansetron,Pantoprazole,Sun Pharma,Antidiabetic,Injection,650 mg,1367.09,158,80,2027-08-16,Available
+MED00817,Metformin,Aspirin,Dr. Reddy's,Vitamin,Tablet,650 mg,10.43,474,38,2027-01-15,Available
+MED00818,Aspirin,Amlodipine,Alkem,Respiratory,Syrup,500 mg,801.24,135,53,2028-11-03,Available
+MED00819,Atorvastatin,Omeprazole,Abbott,Respiratory,Capsule,650 mg,530.37,199,93,2026-09-22,Available
+MED00820,Atorvastatin,Iron Tablets,Cipla,Respiratory,Syrup,100 mg,852.19,598,95,2028-03-24,Available
+MED00821,Pantoprazole,Cetirizine,Pfizer,Antidiabetic,Tablet,500 mg,677.73,966,24,2028-12-23,Available
+MED00822,Ondansetron,ORS,Sun Pharma,Antacid,Syrup,500 mg,631.78,204,88,2026-09-14,Available
+MED00823,Paracetamol,Salbutamol,Cipla,Antidiabetic,Tablet,250 mg,902.18,152,88,2029-01-22,Available
+MED00824,Montelukast,Diclofenac,Alkem,Antibiotic,Syrup,100 mg,1417.3,843,40,2026-12-05,Available
+MED00825,Levocetirizine,Domperidone,Dr. Reddy's,Vitamin,Tablet,5 ml,1094.87,732,55,2028-10-17,Available
+MED00826,Vitamin D3,Metformin,Alkem,Antidiabetic,Syrup,50 mg,370.53,237,36,2026-09-18,Available
+MED00827,Levocetirizine,Ranitidine,Sun Pharma,Antidiabetic,Tablet,250 mg,1473.25,687,30,2027-09-08,Available
+MED00828,Calcium,Omeprazole,Lupin,General Medicine,Syrup,650 mg,568.35,279,86,2028-01-26,Available
+MED00829,Dolo 650,Levocetirizine,Dr. Reddy's,Antidiabetic,Tablet,650 mg,763.54,869,58,2027-01-14,Available
+MED00830,Paracetamol,Salbutamol,Pfizer,General Medicine,Tablet,650 mg,193.75,548,27,2026-10-02,Available
+MED00831,Iron Tablets,Ceftriaxone,Abbott,Cardiology,Drops,650 mg,742.34,73,84,2028-09-03,Available
+MED00832,Calcium,Salbutamol,Alkem,Antibiotic,Syrup,100 mg,27.81,152,75,2029-02-13,Available
+MED00833,Azithromycin,Paracetamol,Mankind,Respiratory,Capsule,10 ml,338.02,706,75,2026-09-10,Available
+MED00834,Ibuprofen,Levocetirizine,Cipla,Cardiology,Drops,500 mg,819.69,832,88,2029-06-04,Available
+MED00835,Insulin,Ibuprofen,Torrent,Antidiabetic,Tablet,500 mg,421.51,732,27,2027-10-15,Available
+MED00836,Pantoprazole,Domperidone,Pfizer,Vitamin,Injection,500 mg,276.86,87,53,2027-03-30,Available
+MED00837,Pantoprazole,Paracetamol,Lupin,Antibiotic,Injection,10 ml,398.48,873,89,2027-03-04,Available
+MED00838,Ondansetron,Insulin,Mankind,Antibiotic,Tablet,500 mg,351.0,539,94,2028-07-08,Available
+MED00839,Amoxicillin,Amlodipine,Torrent,Antacid,Drops,50 mg,56.58,229,90,2028-05-15,Available
+MED00840,Paracetamol,Metformin,Torrent,Antacid,Drops,650 mg,1245.74,221,93,2028-04-27,Available
+MED00841,Amoxicillin,Pantoprazole,Alkem,Antidiabetic,Tablet,650 mg,938.49,185,64,2028-08-28,Available
+MED00842,Iron Tablets,Azithromycin,Lupin,Respiratory,Capsule,10 ml,1196.29,743,76,2029-04-23,Available
+MED00843,Iron Tablets,Domperidone,Sun Pharma,General Medicine,Injection,250 mg,1339.88,365,61,2029-06-22,Available
+MED00844,Telmisartan,Crocin,Cipla,Respiratory,Syrup,10 ml,902.66,560,93,2028-02-29,Available
+MED00845,Cefixime,Atorvastatin,Lupin,Painkiller,Tablet,250 mg,564.54,810,66,2028-09-19,Available
+MED00846,Rabeprazole,Insulin,Sun Pharma,General Medicine,Capsule,500 mg,79.35,123,60,2026-08-02,Available
+MED00847,Azithromycin,Diclofenac,Cipla,General Medicine,Syrup,100 mg,421.01,649,63,2028-02-10,Available
+MED00848,Diclofenac,Levocetirizine,Sun Pharma,Respiratory,Syrup,5 ml,417.26,935,33,2028-11-22,Available
+MED00849,Insulin,Domperidone,Cipla,Antidiabetic,Syrup,5 ml,591.68,397,57,2028-02-02,Available
+MED00850,Paracetamol,Cetirizine,Sun Pharma,Antidiabetic,Injection,500 mg,248.78,449,42,2029-04-10,Available
+MED00851,Iron Tablets,Azithromycin,Cipla,Cardiology,Injection,10 ml,1001.4,258,96,2029-02-09,Available
+MED00852,Paracetamol,Ondansetron,GSK,General Medicine,Injection,50 mg,976.31,152,38,2029-02-20,Available
+MED00853,Iron Tablets,Domperidone,GSK,Respiratory,Capsule,50 mg,1324.92,612,65,2026-10-28,Available
+MED00854,Diclofenac,Crocin,Abbott,Cardiology,Tablet,5 ml,651.25,487,26,2029-05-21,Available
+MED00855,Cefixime,Diclofenac,Cipla,General Medicine,Injection,650 mg,1135.14,899,22,2029-06-09,Available
+MED00856,Diclofenac,Losartan,Sun Pharma,General Medicine,Drops,10 ml,1483.38,724,47,2029-06-02,Available
+MED00857,Metformin,Crocin,Pfizer,General Medicine,Injection,10 ml,244.48,558,94,2027-12-01,Available
+MED00858,Levocetirizine,Ceftriaxone,Alkem,General Medicine,Drops,500 mg,413.54,123,62,2028-10-01,Available
+MED00859,Rabeprazole,Azithromycin,Torrent,Antidiabetic,Injection,5 ml,68.98,533,96,2027-07-05,Available
+MED00860,Calcium,Dolo 650,Abbott,Antidiabetic,Drops,10 ml,1041.96,152,25,2027-12-08,Available
+MED00861,Amlodipine,Crocin,Cipla,Respiratory,Drops,10 ml,273.43,164,36,2029-05-29,Available
+MED00862,Azithromycin,Amlodipine,GSK,General Medicine,Capsule,500 mg,1434.45,333,97,2028-07-31,Available
+MED00863,Amoxicillin,Ranitidine,Abbott,Antidiabetic,Drops,50 mg,385.71,876,62,2027-01-26,Available
+MED00864,Crocin,Aspirin,GSK,Respiratory,Syrup,5 ml,971.97,919,73,2026-12-15,Available
+MED00865,ORS,Calcium,Dr. Reddy's,Antidiabetic,Injection,100 mg,1453.4,785,24,2026-07-26,Available
+MED00866,Paracetamol,Insulin,GSK,Cardiology,Tablet,650 mg,192.25,805,25,2027-08-08,Available
+MED00867,Levocetirizine,Cetirizine,Dr. Reddy's,Cardiology,Capsule,250 mg,736.34,171,37,2029-06-10,Available
+MED00868,Telmisartan,Amlodipine,Abbott,Vitamin,Syrup,5 ml,732.36,234,85,2027-07-15,Available
+MED00869,Azithromycin,Rabeprazole,Abbott,Vitamin,Capsule,100 mg,1029.49,888,20,2027-01-03,Available
+MED00870,Cetirizine,Montelukast,Mankind,Cardiology,Drops,250 mg,1137.59,585,49,2027-10-13,Available
+MED00871,Azithromycin,Pantoprazole,Abbott,General Medicine,Tablet,5 ml,135.87,943,52,2028-05-17,Available
+MED00872,Amoxicillin,Cetirizine,Cipla,Painkiller,Capsule,100 mg,101.38,832,20,2027-03-24,Available
+MED00873,Rabeprazole,ORS,GSK,Cardiology,Drops,5 ml,935.3,721,35,2027-10-03,Available
+MED00874,Ceftriaxone,Losartan,GSK,Cardiology,Tablet,50 mg,1257.59,346,29,2026-07-06,Available
+MED00875,Vitamin D3,Rabeprazole,Sun Pharma,Antacid,Tablet,100 mg,120.83,336,28,2027-10-23,Available
+MED00876,Rabeprazole,Metformin,Sun Pharma,Vitamin,Tablet,5 ml,434.87,69,84,2026-12-01,Available
+MED00877,Insulin,Amoxicillin,Pfizer,Antacid,Injection,100 mg,665.06,68,56,2027-09-18,Available
+MED00878,Ibuprofen,Levocetirizine,Torrent,Antacid,Capsule,5 ml,413.9,984,58,2027-07-13,Available
+MED00879,Salbutamol,Ibuprofen,Lupin,General Medicine,Drops,250 mg,957.31,260,33,2028-10-10,Available
+MED00880,Insulin,Diclofenac,Torrent,Vitamin,Drops,500 mg,1211.47,998,64,2028-12-05,Available
+MED00881,ORS,Salbutamol,Cipla,Cardiology,Injection,100 mg,1064.5,724,88,2028-10-21,Available
+MED00882,Telmisartan,ORS,Pfizer,Vitamin,Syrup,50 mg,1040.58,721,28,2028-01-07,Available
+MED00883,Amoxicillin,Ibuprofen,Mankind,Cardiology,Injection,100 mg,397.54,312,22,2026-12-09,Available
+MED00884,Atorvastatin,Vitamin D3,GSK,Respiratory,Tablet,650 mg,363.6,647,75,2026-08-25,Available
+MED00885,Iron Tablets,Metformin,Torrent,Painkiller,Syrup,250 mg,226.44,121,29,2029-06-05,Available
+MED00886,Montelukast,Vitamin D3,Abbott,Antibiotic,Tablet,100 mg,833.45,137,81,2028-01-14,Available
+MED00887,Ondansetron,ORS,Alkem,Antacid,Tablet,500 mg,1325.28,362,83,2027-07-07,Available
+MED00888,Amoxicillin,Montelukast,Abbott,General Medicine,Injection,10 ml,698.58,362,95,2026-12-31,Available
+MED00889,Ondansetron,Calcium,GSK,Antibiotic,Injection,50 mg,565.75,208,38,2028-07-03,Available
+MED00890,Crocin,Aspirin,Pfizer,General Medicine,Drops,500 mg,429.86,66,49,2026-07-29,Available
+MED00891,Ranitidine,Insulin,Torrent,Painkiller,Drops,100 mg,1283.16,108,85,2027-04-21,Available
+MED00892,Diclofenac,Losartan,Mankind,Painkiller,Capsule,250 mg,1006.22,617,39,2026-08-27,Available
+MED00893,Ceftriaxone,Salbutamol,Alkem,Respiratory,Tablet,50 mg,992.67,274,55,2029-05-26,Available
+MED00894,Diclofenac,ORS,Alkem,General Medicine,Drops,650 mg,463.44,319,40,2027-02-12,Available
+MED00895,Cetirizine,Ranitidine,Dr. Reddy's,Antibiotic,Capsule,100 mg,114.95,601,64,2027-05-26,Available
+MED00896,Ranitidine,Atorvastatin,Lupin,Vitamin,Capsule,50 mg,761.65,368,55,2027-11-01,Available
+MED00897,Diclofenac,Levocetirizine,GSK,Vitamin,Drops,50 mg,1042.4,711,36,2028-02-02,Available
+MED00898,Domperidone,Salbutamol,Abbott,General Medicine,Injection,10 ml,887.54,341,87,2028-11-15,Available
+MED00899,Cetirizine,Levocetirizine,Sun Pharma,General Medicine,Capsule,250 mg,1432.83,556,72,2027-05-03,Available
+MED00900,Ceftriaxone,Telmisartan,Abbott,Antibiotic,Syrup,50 mg,688.41,717,98,2027-05-18,Available
+MED00901,Rabeprazole,Dolo 650,Cipla,Antidiabetic,Injection,10 ml,385.45,435,48,2029-02-25,Available
+MED00902,Losartan,Atorvastatin,Sun Pharma,Cardiology,Drops,50 mg,1254.09,575,69,2027-10-06,Available
+MED00903,Omeprazole,Cetirizine,GSK,General Medicine,Drops,5 ml,242.2,503,76,2026-10-09,Available
+MED00904,Cefixime,Telmisartan,Torrent,Vitamin,Tablet,10 ml,1466.27,720,50,2026-07-02,Available
+MED00905,Ibuprofen,Insulin,Sun Pharma,Cardiology,Injection,650 mg,1074.94,557,27,2028-10-07,Available
+MED00906,Cefixime,Aspirin,Pfizer,Painkiller,Injection,100 mg,202.02,331,37,2028-04-01,Available
+MED00907,Ceftriaxone,Calcium,Lupin,Antibiotic,Tablet,500 mg,66.54,437,27,2027-09-03,Available
+MED00908,Amlodipine,Azithromycin,Pfizer,Painkiller,Injection,100 mg,660.06,921,29,2026-12-14,Available
+MED00909,ORS,Crocin,Mankind,Cardiology,Drops,50 mg,359.79,613,39,2027-02-22,Available
+MED00910,Atorvastatin,Losartan,Mankind,Antibiotic,Injection,10 ml,1313.93,700,77,2028-06-29,Available
+MED00911,Telmisartan,Dolo 650,GSK,Cardiology,Injection,500 mg,1056.78,493,100,2029-05-17,Available
+MED00912,Pantoprazole,Montelukast,GSK,Vitamin,Tablet,5 ml,23.76,61,33,2028-09-05,Available
+MED00913,Metformin,Diclofenac,Dr. Reddy's,Antacid,Drops,650 mg,931.21,428,54,2026-08-09,Available
+MED00914,Montelukast,Insulin,Pfizer,Painkiller,Tablet,250 mg,698.2,998,79,2028-08-18,Available
+MED00915,Cefixime,Iron Tablets,Torrent,Respiratory,Drops,250 mg,599.25,941,62,2027-03-23,Available
+MED00916,Ranitidine,Atorvastatin,Torrent,General Medicine,Tablet,5 ml,1244.96,674,75,2029-04-14,Available
+MED00917,Omeprazole,Paracetamol,GSK,General Medicine,Capsule,50 mg,346.71,135,67,2027-07-07,Available
+MED00918,Amoxicillin,Losartan,Pfizer,Antibiotic,Syrup,5 ml,997.47,167,29,2027-09-19,Available
+MED00919,Cetirizine,Losartan,Torrent,Antibiotic,Tablet,10 ml,299.34,478,89,2028-08-11,Available
+MED00920,Paracetamol,Crocin,Abbott,Respiratory,Syrup,10 ml,90.1,918,82,2028-04-22,Available
+MED00921,Insulin,Ceftriaxone,Lupin,General Medicine,Drops,500 mg,106.73,751,39,2026-11-02,Available
+MED00922,Aspirin,Aspirin,Pfizer,Respiratory,Syrup,50 mg,1066.82,915,33,2029-01-18,Available
+MED00923,Aspirin,Domperidone,Cipla,Antidiabetic,Capsule,5 ml,103.18,898,44,2028-02-08,Available
+MED00924,Amoxicillin,Telmisartan,Dr. Reddy's,Cardiology,Injection,500 mg,1429.01,349,84,2027-07-24,Available
+MED00925,Paracetamol,Diclofenac,Lupin,Cardiology,Syrup,100 mg,1476.82,870,62,2028-05-04,Available
+MED00926,Losartan,Omeprazole,Alkem,Respiratory,Syrup,650 mg,836.19,673,96,2028-11-25,Available
+MED00927,Azithromycin,ORS,Abbott,Cardiology,Injection,650 mg,883.08,608,43,2026-09-20,Available
+MED00928,Amoxicillin,Iron Tablets,GSK,Antidiabetic,Tablet,650 mg,766.41,790,21,2029-05-12,Available
+MED00929,Cetirizine,Pantoprazole,Sun Pharma,Vitamin,Drops,250 mg,167.32,305,26,2028-08-07,Available
+MED00930,Ondansetron,Omeprazole,Pfizer,Painkiller,Syrup,10 ml,647.33,971,25,2029-03-31,Available
+MED00931,ORS,Rabeprazole,Dr. Reddy's,Antibiotic,Capsule,5 ml,185.13,481,55,2029-01-22,Available
+MED00932,Insulin,Insulin,GSK,Cardiology,Capsule,250 mg,881.13,394,55,2029-01-18,Available
+MED00933,Aspirin,Telmisartan,Dr. Reddy's,Antidiabetic,Capsule,250 mg,555.41,393,45,2026-11-18,Available
+MED00934,Losartan,ORS,Abbott,General Medicine,Drops,5 ml,1345.23,195,64,2027-02-04,Available
+MED00935,Levocetirizine,Ranitidine,Mankind,Antibiotic,Capsule,100 mg,1222.34,467,69,2028-07-01,Available
+MED00936,Pantoprazole,Metformin,Pfizer,Antacid,Tablet,50 mg,1173.47,57,38,2027-07-02,Available
+MED00937,ORS,Telmisartan,Dr. Reddy's,Vitamin,Syrup,10 ml,1165.26,406,38,2029-03-02,Available
+MED00938,Levocetirizine,Iron Tablets,Mankind,Vitamin,Tablet,250 mg,532.75,160,21,2027-03-03,Available
+MED00939,Paracetamol,Paracetamol,Mankind,Antibiotic,Syrup,50 mg,795.0,916,46,2028-05-24,Available
+MED00940,Ondansetron,Ondansetron,Torrent,General Medicine,Capsule,100 mg,1473.32,288,72,2028-05-14,Available
+MED00941,Cetirizine,Montelukast,Mankind,Respiratory,Drops,5 ml,931.99,355,24,2029-05-13,Available
+MED00942,Rabeprazole,Amlodipine,Abbott,Antidiabetic,Drops,10 ml,840.86,637,29,2028-09-20,Available
+MED00943,Telmisartan,Paracetamol,Sun Pharma,Antacid,Syrup,500 mg,1098.09,271,38,2027-12-01,Available
+MED00944,Ranitidine,Dolo 650,Torrent,Respiratory,Tablet,650 mg,892.72,403,82,2026-10-29,Available
+MED00945,Pantoprazole,Atorvastatin,Dr. Reddy's,Antacid,Drops,650 mg,446.96,791,86,2026-09-11,Available
+MED00946,Diclofenac,Cetirizine,Torrent,Respiratory,Injection,50 mg,457.36,464,37,2027-12-08,Available
+MED00947,Paracetamol,Metformin,Torrent,Painkiller,Injection,500 mg,899.84,121,32,2027-03-12,Available
+MED00948,Ibuprofen,Aspirin,Lupin,Antibiotic,Syrup,5 ml,702.75,244,90,2028-07-08,Available
+MED00949,Cefixime,Domperidone,Pfizer,Painkiller,Syrup,5 ml,815.33,534,44,2028-11-05,Available
+MED00950,Ibuprofen,Calcium,Pfizer,Antacid,Tablet,650 mg,1330.36,337,78,2029-02-02,Available
+MED00951,Levocetirizine,Rabeprazole,GSK,Antidiabetic,Drops,100 mg,804.84,546,34,2028-06-19,Available
+MED00952,Dolo 650,Ranitidine,Dr. Reddy's,General Medicine,Tablet,50 mg,778.72,694,73,2027-04-29,Available
+MED00953,Rabeprazole,Crocin,Lupin,Antidiabetic,Injection,10 ml,106.82,400,49,2028-05-07,Available
+MED00954,Crocin,Paracetamol,GSK,Vitamin,Syrup,5 ml,1231.67,538,79,2028-12-10,Available
+MED00955,Amoxicillin,Azithromycin,Cipla,Antidiabetic,Tablet,650 mg,276.45,262,91,2028-08-04,Available
+MED00956,Pantoprazole,Losartan,GSK,Antibiotic,Tablet,650 mg,894.57,973,76,2027-12-01,Available
+MED00957,Levocetirizine,ORS,Pfizer,Antidiabetic,Syrup,250 mg,1398.11,417,68,2028-12-24,Available
+MED00958,Levocetirizine,Azithromycin,Abbott,Antidiabetic,Injection,250 mg,1102.33,831,36,2027-10-26,Available
+MED00959,Atorvastatin,Atorvastatin,Alkem,General Medicine,Injection,10 ml,909.99,905,88,2028-07-25,Available
+MED00960,Ceftriaxone,Domperidone,Lupin,Painkiller,Syrup,50 mg,801.66,809,82,2027-09-12,Available
+MED00961,Ranitidine,Cefixime,Lupin,Antidiabetic,Drops,10 ml,1059.79,78,95,2028-09-12,Available
+MED00962,Telmisartan,Cefixime,Lupin,Antibiotic,Drops,250 mg,869.55,660,31,2028-07-22,Available
+MED00963,Insulin,Ibuprofen,Alkem,Cardiology,Tablet,650 mg,647.67,762,84,2026-07-28,Available
+MED00964,Ceftriaxone,Pantoprazole,Alkem,Antacid,Capsule,5 ml,341.85,293,46,2027-04-07,Available
+MED00965,Omeprazole,Calcium,Lupin,Cardiology,Syrup,50 mg,1206.65,887,100,2028-04-16,Available
+MED00966,Amoxicillin,Diclofenac,GSK,General Medicine,Tablet,500 mg,409.68,941,68,2028-04-29,Available
+MED00967,Diclofenac,Vitamin D3,Pfizer,Painkiller,Syrup,500 mg,209.77,344,71,2028-11-18,Available
+MED00968,Metformin,Salbutamol,Cipla,Respiratory,Tablet,10 ml,949.71,154,38,2028-11-09,Available
+MED00969,Cefixime,Rabeprazole,Alkem,Painkiller,Tablet,100 mg,204.34,784,55,2028-09-28,Available
+MED00970,Amlodipine,Atorvastatin,Lupin,Painkiller,Syrup,250 mg,681.42,313,21,2027-12-01,Available
+MED00971,Pantoprazole,Ceftriaxone,Mankind,Antacid,Tablet,250 mg,842.76,291,32,2026-09-15,Available
+MED00972,Rabeprazole,Iron Tablets,Dr. Reddy's,Cardiology,Syrup,500 mg,1079.12,975,42,2027-07-13,Available
+MED00973,Montelukast,Montelukast,Lupin,General Medicine,Capsule,50 mg,1060.42,210,20,2028-09-11,Available
+MED00974,Levocetirizine,Ranitidine,Sun Pharma,Painkiller,Tablet,100 mg,1479.67,385,61,2026-09-21,Available
+MED00975,Ondansetron,Aspirin,Alkem,Respiratory,Drops,5 ml,670.35,104,38,2027-08-16,Available
+MED00976,Pantoprazole,Diclofenac,Dr. Reddy's,Antibiotic,Capsule,250 mg,354.63,603,40,2028-12-01,Available
+MED00977,Iron Tablets,Aspirin,Abbott,General Medicine,Syrup,50 mg,1097.07,385,79,2027-09-28,Available
+MED00978,Salbutamol,Metformin,Abbott,Antidiabetic,Syrup,50 mg,933.06,443,77,2027-07-02,Available
+MED00979,Atorvastatin,Calcium,Cipla,Cardiology,Drops,650 mg,924.25,532,93,2028-05-20,Available
+MED00980,Ranitidine,ORS,Mankind,Respiratory,Injection,500 mg,1384.84,102,84,2028-03-13,Available
+MED00981,Losartan,Vitamin D3,GSK,General Medicine,Injection,250 mg,1353.29,943,68,2027-09-02,Available
+MED00982,Domperidone,Aspirin,Sun Pharma,Cardiology,Syrup,5 ml,1311.22,395,100,2029-03-31,Available
+MED00983,Insulin,Levocetirizine,Mankind,Antidiabetic,Injection,5 ml,698.06,746,25,2026-11-25,Available
+MED00984,Pantoprazole,Ibuprofen,Alkem,Antacid,Capsule,650 mg,210.33,637,85,2026-07-17,Available
+MED00985,Omeprazole,Omeprazole,Cipla,Vitamin,Drops,500 mg,343.58,170,41,2028-12-19,Available
+MED00986,Montelukast,Aspirin,Alkem,Antidiabetic,Tablet,5 ml,878.94,123,48,2028-06-17,Available
+MED00987,Calcium,Vitamin D3,Sun Pharma,Antidiabetic,Drops,500 mg,658.57,983,76,2029-03-02,Available
+MED00988,Domperidone,Atorvastatin,Alkem,Painkiller,Injection,50 mg,327.3,53,48,2027-03-14,Available
+MED00989,Salbutamol,Ibuprofen,GSK,Respiratory,Injection,650 mg,1127.98,234,71,2029-01-07,Available
+MED00990,Rabeprazole,Amlodipine,Alkem,General Medicine,Syrup,10 ml,243.49,210,56,2029-01-18,Available
+MED00991,Calcium,Amlodipine,Cipla,Antacid,Capsule,100 mg,418.16,902,96,2026-09-01,Available
+MED00992,Paracetamol,Telmisartan,Lupin,Painkiller,Capsule,650 mg,678.01,231,79,2029-03-09,Available
+MED00993,Dolo 650,Ibuprofen,Abbott,General Medicine,Syrup,250 mg,1047.52,555,88,2027-08-09,Available
+MED00994,Losartan,Crocin,Dr. Reddy's,Antacid,Capsule,50 mg,374.27,711,46,2028-08-02,Available
+MED00995,Ibuprofen,Rabeprazole,Sun Pharma,Cardiology,Capsule,5 ml,812.51,839,40,2027-11-16,Available
+MED00996,Salbutamol,Aspirin,Pfizer,Antibiotic,Syrup,250 mg,1259.97,534,53,2027-10-20,Available
+MED00997,Cetirizine,Cetirizine,GSK,Painkiller,Syrup,10 ml,247.66,243,26,2026-08-17,Available
+MED00998,Domperidone,Cetirizine,Abbott,Respiratory,Injection,650 mg,1163.52,579,38,2027-06-11,Available
+MED00999,Montelukast,Montelukast,Pfizer,Vitamin,Capsule,650 mg,889.67,807,82,2027-11-05,Available
+MED01000,Diclofenac,Pantoprazole,GSK,Painkiller,Syrup,5 ml,930.36,180,60,2027-01-22,Available

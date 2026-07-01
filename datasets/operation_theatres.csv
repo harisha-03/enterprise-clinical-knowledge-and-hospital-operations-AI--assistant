@@ -1,0 +1,26 @@
+theatre_id,department_id,theatre_name,theatre_number,floor_number,theatre_type,status
+OT001,DEP005,Operation Theatre 1,OT-01,2,General Surgery,Maintenance
+OT002,DEP008,Operation Theatre 2,OT-02,2,Neurosurgery,Occupied
+OT003,DEP010,Operation Theatre 3,OT-03,4,Neurosurgery,Available
+OT004,DEP009,Operation Theatre 4,OT-04,2,Orthopedic Surgery,Available
+OT005,DEP008,Operation Theatre 5,OT-05,4,Emergency Surgery,Maintenance
+OT006,DEP001,Operation Theatre 6,OT-06,6,Emergency Surgery,Available
+OT007,DEP010,Operation Theatre 7,OT-07,5,General Surgery,Available
+OT008,DEP009,Operation Theatre 8,OT-08,1,General Surgery,Maintenance
+OT009,DEP004,Operation Theatre 9,OT-09,6,General Surgery,Occupied
+OT010,DEP008,Operation Theatre 10,OT-10,4,Orthopedic Surgery,Available
+OT011,DEP007,Operation Theatre 11,OT-11,2,Neurosurgery,Maintenance
+OT012,DEP005,Operation Theatre 12,OT-12,3,Emergency Surgery,Maintenance
+OT013,DEP008,Operation Theatre 13,OT-13,4,Orthopedic Surgery,Maintenance
+OT014,DEP006,Operation Theatre 14,OT-14,5,Cardiac Surgery,Available
+OT015,DEP008,Operation Theatre 15,OT-15,2,Orthopedic Surgery,Available
+OT016,DEP005,Operation Theatre 16,OT-16,1,Emergency Surgery,Available
+OT017,DEP005,Operation Theatre 17,OT-17,3,Cardiac Surgery,Available
+OT018,DEP007,Operation Theatre 18,OT-18,2,General Surgery,Available
+OT019,DEP005,Operation Theatre 19,OT-19,1,Cardiac Surgery,Maintenance
+OT020,DEP001,Operation Theatre 20,OT-20,4,Orthopedic Surgery,Available
+OT021,DEP006,Operation Theatre 21,OT-21,2,Neurosurgery,Maintenance
+OT022,DEP004,Operation Theatre 22,OT-22,6,Emergency Surgery,Occupied
+OT023,DEP007,Operation Theatre 23,OT-23,1,Cardiac Surgery,Available
+OT024,DEP001,Operation Theatre 24,OT-24,4,Emergency Surgery,Occupied
+OT025,DEP002,Operation Theatre 25,OT-25,3,Emergency Surgery,Occupied
